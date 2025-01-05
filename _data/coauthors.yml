@@ -2,13 +2,13 @@
   - firstname: ["Pavel", "P."]
     url: https://mat.unb.br/index.php/pessoas/docentes/57-pavel-shumyatsky
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"khukhro":
+  - firstname: ["Evgeny", "E.", "E. I."]
+    url: https://orcid.org/0000-0001-8276-0617
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"guralnick":
+  - firstname: ["Robert", "Robert M."]
+    url: https://dornsife.usc.edu/profile/robert-guralnick/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
