@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "academic appointments": [
     {
       "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
       "position": "Associate Professor",
@@ -95,48 +95,48 @@
       "courses": [""] 
     }
   ],
-  "certificates": [
+  "organizing": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "XII Summer Workshop in Mathematics",
+      "date": "February 2020",
+      "issuer": "University of Brasilia",
+      "url": "https://www.mat.unb.br/verao2020/workshop_en.html",
+      "icon": "fa-solid fa-calendar"
     },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+   {
+      "name": "Group Theory Session at 33rd Brazilian Mathematical Colloquium",
+      "date": "August 2021",
+      "issuer": "IMPA-Rio de Janeiro",
+      "url": "https://impa.br/en_US/eventos-do-impa/2021-2/33cbm/",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Finite and Residually Finite Groups conference",
+      "date": "June 2023",
+      "issuer": "University of the Basque Country",
+      "url": "https://acciarricristina.wixsite.com/pavel60",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Group Theory Session at Algebra Latin-American Colloquium 2024",
+      "date": "July 2024",
+      "issuer": "Pontificia Universidad Cátolica de Chile",
+      "url": "https://cla2024.mat.uc.cl/",
+      "icon": "ffa-solid fa-calendar"
+    },
+    {
+      "name": "Topics in Group Theory conference",
+      "date": "September 2024",
+      "issuer": "University of Padova",
+      "url": "https://events.math.unipd.it/tgt/",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Finite and Profinite Groups Session at RSME's 7th Congress of Young Researchers",
+      "date": "January 2025",
+      "issuer": "University of the Basque Country",
+      "url": "https://jovenes2025.rsme.es/index_en.html",
+      "icon": "fa-solid fa-calendar"
     }
   ],
   "publications": [
