@@ -6,7 +6,7 @@
     "email": "cristina.acciarri@unimore.it",
     "phone": "(912) 123-4567",
     "url": "https://acciarric.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "?",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -20,8 +20,7 @@
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
-    ]
-  },
+    ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -50,8 +49,8 @@
       "institution": "University of L'Aquila, Department of Pure and Applied Mathematics",
       "location": "L'Aquila, Italy",
       "url": "??",
-      "area": "Mathematics - Algebra",
-      "studyType": "PhD",
+      "area": "Algebra, Group Theory",
+      "studyType": "PhD in Mathematics",
       "startDate": "2007",
       "endDate": "2010",
       "score": "Excellent (with European PhD label)",
