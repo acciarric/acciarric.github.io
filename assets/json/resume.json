@@ -64,7 +64,7 @@
     {
       "institution": "University of L'Aquila, Department of Pure and Applied Mathematics",
       "location": "L'Aquila, Italy",
-      "url": "??",
+      "url": "https://www.univaq.it",
       "area": "Algebra, Group Theory",
       "studyType": "PhD in Mathematics",
       "startDate": "2007",
@@ -75,7 +75,7 @@
     {
       "institution": "University of Rome 'La Sapienza', Department of Mathematics 'G. Castelnuovo' ",
       "location": "Rome, Italy",
-      "url": "?",
+      "url": "https://www.uniroma1.it/it/",
       "area": "Mathematics",
       "studyType": "'Laurea Triennale' in Mathematics",
       "startDate": "2001",
@@ -86,16 +86,16 @@
     {
       "institution": "University of Rome 'La Sapienza', Department of Mathematics 'G. Castelnuovo' ",
       "location": "Rome, Italy",
-      "url": "",
+      "url": "https://www.uniroma1.it/it/",
       "area": "Mathematics",
-      "studyType": " 'Laurea Specialistica' in Mathematics",
+      "studyType": "'Laurea Specialistica' in Mathematics",
       "startDate": "2004",
       "endDate": "2006",
       "score": "110/110 e lode (top grade)",
       "courses": [""] 
     }
   ],
-  "organizing": [
+  "certificates": [
     {
       "name": "XII Summer Workshop in Mathematics",
       "date": "February 2020",
@@ -143,7 +143,7 @@
     {
       "name": "Varieties of groups and the problem on conciseness of words",
       "publisher": "Annali della Scuola Normale Superiore di Pisa, Classe di Scienze",
-      "releaseDate": "to appear - online 2024",
+      "releaseDate": "online 2024",
       "url": "http://doi.org/10.2422/2036-2145.202306_017",
       "summary": "joint with Pavel Shumyatsky"
     },
