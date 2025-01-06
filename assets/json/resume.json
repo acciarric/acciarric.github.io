@@ -24,6 +24,29 @@
   },
   "work": [
     {
+			"company": "CurrentInstitution",
+			"position": "YourTitle",
+			"positions": [
+				{
+					"title": "Associate Professor",
+					"startDate": "11/2024",
+					"endDate": "Present"
+				},
+				{
+					"title": "Assistant Professor -tenure track RTDB ",
+					"startDate": "11/2021",
+					"endDate": "10/2024"
+				}
+			],
+			"website": "http://the-university-url.edu",
+			"summary": "MATH-02/A Algebra",
+			"highlights": [
+				"First hightlight",
+				"Second hightlight",
+				"Third hightlight"
+			]
+		},
+    {
       "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
       "position": "Associate Professor",
       "url": "https://personale.unimore.it/rubrica/dettaglio/acciarric",
