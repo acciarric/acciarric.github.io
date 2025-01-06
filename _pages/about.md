@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>cristina.acciarri@unimore.it </p>
+    <p>cristina.acciarri at unimore.it </p>
     <p>Office: MO-18-03-006</p>
     <p>Via Campi 213/b,</p>
     <p>41125 Modena - Italy</p>
