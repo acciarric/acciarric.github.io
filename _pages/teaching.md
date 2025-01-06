@@ -12,7 +12,7 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like!
 
 
-[//]: #  \vspace{-5pt}
+[//] #  \vspace{-5pt}
 \section{Teaching}
 \cvitem{\textbf{Instructor}}{at Department of Physics, Informatics and Mathematics, \textbf{Universit\`a degli Studi di Modena e Reggio Emilia} (Italy)}
 \cvline{academic year 24-25}{\textit{Algebra superiore}  (graduate course MN1-306, 42 hours)}
