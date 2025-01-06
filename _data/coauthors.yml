@@ -10,24 +10,21 @@
   - firstname: ["Robert", "Robert M."]
     url: https://dornsife.usc.edu/profile/robert-guralnick/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"lucchini":
+  - firstname: ["Andrea", "A."]
+    url: https://www.math.unipd.it/~lucchini/ 
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"thillaisundaram":
+  - firstname: ["Anitha", "A."]
+    url: https://portal.research.lu.se/en/persons/anitha-thillaisundaram
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"silveira":
+  - firstname: ["Danilo", "D."]
+    url: https://www.researchgate.net/profile/Danilo-Silveira
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"alcober":
+  - firstname: ["Gustavo A.", "G. A."]
+    url: https://ekoizpen-zientifikoa.ehu.eus/investigadores/128893/detalle
 
 "planck":
   - firstname: ["Max"]
