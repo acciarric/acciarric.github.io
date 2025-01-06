@@ -27,8 +27,8 @@
       "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
       "position": "Associate Professor",
       "url": "https://personale.unimore.it/rubrica/dettaglio/acciarric",
-      "startDate": "01/11/2024",
-      "endDate": "",
+      "startDate": "11/2024",
+      "endDate": "present",
       "summary": "MATH-02/A Algebra",
       "highlights": ["with ASN qualification as 'professore di prima fascia in 01/A2 Geometria e Algebra'"]
     },
@@ -57,7 +57,7 @@
       "startDate": "11/2011",
       "endDate": "01/2013",
       "summary": "research activities in Group Theory",
-      "highlights": [""]
+      "highlights": ["funded by Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq-Brazil)"]
     }
   ],
   "education": [
@@ -148,11 +148,11 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Coprime automorphisms of finite groups",
+      "publisher": "Transactions of the American Mathematical Society",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1090/tran/8553",
+      "summary": "joint with Robert Guralnick and Pavel Shumyatsky"
     },
     {
       "name": "Die Grundlage der allgemeinen Relativitätstheorie",
