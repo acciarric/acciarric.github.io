@@ -11,9 +11,8 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-
-[//] #  \vspace{-5pt}
-\section{Teaching}
+[//] # \vspace{-5pt}
+[//] #  \section{Teaching}
 \cvitem{\textbf{Instructor}}{at Department of Physics, Informatics and Mathematics, \textbf{Universit\`a degli Studi di Modena e Reggio Emilia} (Italy)}
 \cvline{academic year 24-25}{\textit{Algebra superiore}  (graduate course MN1-306, 42 hours)}
 \cvline{}{\textit{Fondamenti di algebra e geometria} (graduate course M263-065, 21 hours)}
@@ -27,7 +26,8 @@ Organize your courses by years, topics, or universities, however you like!
 \vspace{6pt}
 \cvline{academic year 21-22}{\textit{Strutture algebriche}  (graduate course MN1-512, 36 hours)}
 \cvline{}{\textit{Geometria e Algebra Lineare} (undergraduate course MECC-2, 20 hours)}
-\vspace{15pt}
+[//]: # \vspace{15pt}
+
 
 \cvitem{\textbf{Instructor}}{at Department of Mathematics, \textbf{EHU/UPV Universidad del Pa\'is Vasco}, Bilbao (Spain)}
 \cvline{academic year 2023}{\textit{On Lie ring methods in group theory} (PhD course in English, 10 hours)}

@@ -3,14 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://www.unimore.it/'>University of Modena and Reggio Emilia</a>
-[//]: #  subtitle: <a href='https://www.fim.unimore.it/it'>Department of Physics, Informatics and Mathematics</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>cristina.acciarri at unimore.it </p>
+    <p>cristina.acciarri 'at' unimore.it </p>
     <p>Office: MO-18-03-006</p>
     <p>Via Campi 213/b,</p>
     <p>41125 Modena - Italy</p>
