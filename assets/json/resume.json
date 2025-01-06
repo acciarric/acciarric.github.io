@@ -25,21 +25,39 @@
   "work": [
     {
       "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
-      "position": "Associate Professor ",
+      "position": "Associate Professor",
       "url": "https://personale.unimore.it/rubrica/dettaglio/acciarric",
       "startDate": "01/11/2024",
-      "endDate": "present",
+      "endDate": "",
       "summary": "MATH-02/A Algebra",
       "highlights": ["with ASN qualification as 'professore di prima fascia in 01/A2 Geometria e Algebra'"]
+    },
+    {
+      "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
+      "position": "Assistant Professor -tenure track RTDB ",
+      "url": "https://personale.unimore.it/rubrica/dettaglio/acciarric",
+      "startDate": "11/2021",
+      "endDate": "10/2024",
+      "summary": "MATH-02/A Algebra",
+      "highlights": [""]
     },
     {
       "name": "Department of Mathematics, University of Brasília",
       "position": "'Professor Adjunto'",
       "url": "https://mat.unb.br/index.php/pessoas/docentes/17-cristina-acciarri",
-      "startDate": "31/01/2013",
-      "endDate": "31/12/2024",
+      "startDate": "01/2013",
+      "endDate": "12/2024",
       "summary": "tenured, research and teaching in Algebra",
       "highlights": ["on leave without pay from 01/2022 to 12/2024"]
+    },
+    {
+      "name": "Department of Mathematics, University of Brasília",
+      "position": "CNPq Postdoctoral Fellow'",
+      "url": "",
+      "startDate": "11/2011",
+      "endDate": "01/2013",
+      "summary": "research activities in Group Theory",
+      "highlights": [""]
     }
   ],
   "education": [
