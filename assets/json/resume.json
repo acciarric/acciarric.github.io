@@ -24,25 +24,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia",
+      "position": "Associate Professor ",
+      "url": "https://personale.unimore.it/rubrica/dettaglio/acciarric",
+      "startDate": "01/11/2024",
+      "endDate": "present",
+      "summary": "MATH-02/A Algebra",
+      "highlights": ["with ASN qualification as 'professore di prima fascia in 01/A2 Geometria e Algebra'"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Mathematics, University of Brasília",
+      "position": "'Professor Adjunto'",
+      "url": "https://mat.unb.br/index.php/pessoas/docentes/17-cristina-acciarri",
+      "startDate": "31/01/2013",
+      "endDate": "31/12/2024",
+      "summary": "tenured, research and teaching in Algebra",
+      "highlights": ["on leave without pay from 01/2022 to 12/2024"]
     }
   ],
   "education": [
@@ -145,21 +142,6 @@
       "releaseDate": "1916-03-20",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
