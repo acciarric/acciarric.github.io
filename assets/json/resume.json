@@ -60,9 +60,9 @@
     {
       "institution": "University of Rome 'La Sapienza', Department of Mathematics 'G. Castelnuovo' ",
       "location": "Rome, Italy",
-      "url": "",
+      "url": "?",
       "area": "Mathematics",
-      "studyType": " 'Laurea Triennale' in Mathematics",
+      "studyType": "'Laurea Triennale' in Mathematics",
       "startDate": "2001",
       "endDate": "2004",
       "score": "110/110 e lode (top grade)",
@@ -164,13 +164,23 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Italian",
+      "fluency": "mother tongue",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent, DELE European Level C2 - Instituto Cervantes",
+      "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Fluent, European Level C1 - CELPE-Bras Avançado",
       "icon": ""
     }
   ],
