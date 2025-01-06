@@ -47,26 +47,48 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of L'Aquila, Department of Pure and Applied Mathematics",
+      "location": "L'Aquila, Italy",
+      "url": "??",
+      "area": "Mathematics - Algebra",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "startDate": "2007",
+      "endDate": "2010",
+      "score": "Excellent (with European PhD label)",
+      "courses": ["under the supervision of Gustavo A. Fernández Alcober (University of the Basque Country)"]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University of Rome 'La Sapienza', Department of Mathematics 'G. Castelnuovo' ",
+      "location": "Rome, Italy",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": " 'Laurea Triennale' in Mathematics",
+      "startDate": "2001",
+      "endDate": "2004",
+      "score": "110/110 e lode (top grade)",
+      "courses": [""] 
+    },
+    {
+      "institution": "University of Rome 'La Sapienza', Department of Mathematics 'G. Castelnuovo' ",
+      "location": "Rome, Italy",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": " 'Laurea Specialistica' in Mathematics",
+      "startDate": "2004",
+      "endDate": "2006",
+      "score": "110/110 e lode (top grade)",
+      "courses": [""] 
     }
   ],
+ //  "awards": [
+   // {//
+     // "title": "Nobel Prize in Physics",//
+     // "date": "1921-11-01", //
+     // "awarder": "Royal Swedish Academy of Sciences", //
+     // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/", //
+     // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'" //
+   // } //
+//  ],//
   "certificates": [
     {
       "name": "Machine Learning",
