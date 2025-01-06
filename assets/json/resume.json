@@ -25,7 +25,6 @@
   "work": [
     {
 			"company": "CurrentInstitution",
-			"position": "YourTitle",
 			"positions": [
 				{
 					"title": "Associate Professor",
@@ -160,43 +159,6 @@
       "issuer": "University of the Basque Country",
       "url": "https://jovenes2025.rsme.es/index_en.html",
       "icon": "fa-solid fa-calendar"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Varieties of groups and the problem on conciseness of words",
-      "publisher": "Annali della Scuola Normale Superiore di Pisa, Classe di Scienze",
-      "releaseDate": "online 2024",
-      "url": "http://doi.org/10.2422/2036-2145.202306_017",
-      "summary": "joint with Pavel Shumyatsky"
-    },
-    {
-      "name": "Coprime automorphisms of finite groups",
-      "publisher": "Transactions of the American Mathematical Society",
-      "releaseDate": "2022",
-      "url": "https://doi.org/10.1090/tran/8553",
-      "summary": "joint with Robert Guralnick and Pavel Shumyatsky"
-    },
-    {
-      "name": "A stronger form of Neumann's BFC-theorem",
-      "publisher": "Israel Journal of Mathematics",
-      "releaseDate": "2021",
-      "url": "https://rdcu.be/c4TMf",
-      "summary": "joint with Pavel Shumyatsky"
-    },
-    {
-      "name": "Graphs encoding the generating properties of a finite group",
-      "publisher": "Mathematische Nachrichten",
-      "releaseDate": "2020",
-      "url": "https://doi.org/10.1002/mana.201900144",
-      "summary": "joint with Andrea Lucchini"
-    },
-    {
-      "name": "Profinite groups with an automorphism whose fixed points are right Engel",
-      "publisher": "Proceedings of the American Mathematical Society",
-      "releaseDate": "2019",
-      "url": "https://rdcu.be/c4TMf",
-      "summary": "joint with Evgeny Khukhro and Pavel Shumyatsky"
     }
   ],
   "languages": [
