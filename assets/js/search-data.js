@@ -523,13 +523,6 @@ ninja.data = [{
           window.open("https://www.scopus.com/authid/detail.uri?authorId=40461096800&partnerID=MN8TOARS", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://personale.unimore.it/rubrica/dettaglio/acciarric", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
