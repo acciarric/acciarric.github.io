@@ -45,7 +45,7 @@ scopus_id: 40461096800&partnerID=MN8TOARS #https://www.scopus.com/authid/detail.
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: prof_pic.png # can be png, svg, jpg
-  title: UniMoRe personal
-  url: https://personale.unimore.it/rubrica/dettaglio/acciarric
+#custom_social: # can be any name here other than the ones already defined above
+ # logo: prof_pic.png # can be png, svg, jpg
+ # title: UniMoRe personal
+ # url: https://personale.unimore.it/rubrica/dettaglio/acciarric
