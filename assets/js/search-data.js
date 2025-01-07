@@ -506,7 +506,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Cristina-Acciarri/", "_blank");
+          window.open("https://www.researchgate.net/profile/Cristina-Acciarri/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -520,7 +520,7 @@ ninja.data = [{
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=http://www.scopus.com/inward/authorDetails.url?authorID=40461096800&partnerID=MN8TOARS", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=40461096800&partnerID=MN8TOARS", "_blank");
         },
       },{
         id: 'social-custom_social',
