@@ -31,7 +31,7 @@ orcid_id: 0000-0002-7895-7705 # your ORCID ID
 research_gate_profile: https://www.researchgate.net/profile/Cristina-Acciarri # your profile on ResearchGate
 #rss_icon: false # set to true to show the RSS icon
 scholar_userid: qQ-UxdAAAAAJ # your Google Scholar ID
-scopus_id: https://www.scopus.com/authid/detail.uri?authorId=40461096800 # your profile on Scopus
+scopus_id: http://www.scopus.com/inward/authorDetails.url?authorID=40461096800&partnerID=MN8TOARS #https://www.scopus.com/authid/detail.uri?authorId=40461096800 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
@@ -45,7 +45,7 @@ scopus_id: https://www.scopus.com/authid/detail.uri?authorId=40461096800 # your 
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-#custom_social: # can be any name here other than the ones already defined above
- # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
- # title: Custom Social
- # url: https://www.alberteinstein.com/
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  title: UniMoRe personal
+  url: https://personale.unimore.it/rubrica/dettaglio/acciarric
