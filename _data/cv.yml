@@ -21,16 +21,16 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: "Laurea Specialistica" in Mathematics
-      institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
-      year: 2006
-      description:
-        - 110/110 e lode (top grade)
-    - title: "Laurea Triennale" in Mathematics
-      institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
-      year: 2004
-      description:
-        - 110/110 e lode (top grade)
+   # - title: Laurea Specialistica in Mathematics
+    #  institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
+    #  year: 2006
+    #  description:
+    #    - 110/110 e lode (top grade)
+   # - title: Laurea Triennale in Mathematics
+   #   institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
+    #  year: 2004
+   #   description:
+    #   - 110/110 e lode (top grade)
 
 - title: Experiences
   type: time_table
