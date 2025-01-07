@@ -495,13 +495,6 @@ ninja.data = [{
           window.open("mailto:%63%72%69%73%74%69%6E%61.%61%63%63%69%61%72%72%69@%75%6E%69%6D%6F%72%65.%69%74", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0002-7895-7705", "_blank");
-        },
-      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
