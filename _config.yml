@@ -84,7 +84,7 @@ google_site_verification: # your google-site-verification ID (Google Search Cons
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
-# Blog
+# Blog    parte che serve per il blog commentata
 # -----------------------------------------------------------------------------
 
 # blog_name: al-folio # blog_name will be displayed in your blog page
@@ -158,10 +158,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts: # serve per i post che appaiono nella pagina about.md
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -630,7 +630,7 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-#jekyll_get_json:
+#jekyll_get_json:  # serve per il file resume.json
 #  - data: resume
  #   json:  assets/json/resume.json # it can also be an url
 #jsonresume:
