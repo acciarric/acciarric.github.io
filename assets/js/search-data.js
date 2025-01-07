@@ -520,7 +520,14 @@ ninja.data = [{
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=40461096800", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=http://www.scopus.com/inward/authorDetails.url?authorID=40461096800&partnerID=MN8TOARS", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://personale.unimore.it/rubrica/dettaglio/acciarric", "_blank");
         },
       },{
       id: 'light-theme',
