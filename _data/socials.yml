@@ -28,10 +28,10 @@ orcid_id: 0000-0002-7895-7705 # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Cristina-Acciarri # your profile on ResearchGate
+research_gate_profile: Cristina-Acciarri # your profile on ResearchGate
 #rss_icon: false # set to true to show the RSS icon
 scholar_userid: qQ-UxdAAAAAJ # your Google Scholar ID
-scopus_id: http://www.scopus.com/inward/authorDetails.url?authorID=40461096800&partnerID=MN8TOARS #https://www.scopus.com/authid/detail.uri?authorId=40461096800 # your profile on Scopus
+scopus_id: 40461096800&partnerID=MN8TOARS #https://www.scopus.com/authid/detail.uri?authorId=40461096800 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
