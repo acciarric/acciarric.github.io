@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unimore.it/'>University of Modena and Reggio Emilia</a>
+subtitle: <a href='https://personale.unimore.it/rubrica/dettaglio/acciarric'>University of Modena and Reggio Emilia (my UniMoRe webpage)</a>
 
 profile:
   align: right
