@@ -98,30 +98,31 @@
       year: 2019
       description: Colegio Nacional, Mexico City, Mexico              
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Membership
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <a href=" https://www.altamatematica.it/gnsaga">INdAM</a> - Instituto Nazionale di Alta Matematica - GNSAGA
       items:
         - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: <a href="https: // www. europeanwomeninmaths.org/ profile/ cristina-acciarri/">European Women in Mathematics</a>
       items:
         - Description 1.
-        - Description 2.
+    - title: <a href="https://umi.dm.unibo.it">UMI</a>, Unione Matematica Italiana
+      items:
+        - Description 1.   
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, Music, Cooking.
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal    
