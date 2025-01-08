@@ -150,57 +150,114 @@ nav_order: 6
     </ul>
   </div>
 </div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2019</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2018</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2016</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2015</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2014</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester</li>
+      <li class="list-group-item">— <b>Introduction to algebra</b>: Master course, 60 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 2013</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
+      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester</li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours</li>
+      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours 1st semester </li>
+    </ul>
+  </div>
+</div>
+
 
 <!--- 
-[//] # \vspace{-5pt}
-[//] #  \section{Teaching}
-\cvline{2nd semester 2019}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-\vspace{6pt}
-
-\cvline{1st semester 2019}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 60 hours)}
-\cvline{}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-
-\vspace{6pt}
-\cvline{2nd semester 2018}{\textit{Lie Methods in Group Theory} (PhD course in English, 60 hours)}
-\cvline{}{\textit{Algebra 1} (undergraduate course 113107, 60 hours)}
-\vspace{6pt}
-
-\cvline{1st semester 2018}{\textit{Group Theory 2} (Master course 313386, 60 hours)}
-\cvline{}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-\vspace{6pt}
-
-\cvline{academic year  2017}{sabbatical year spent at UNIPD - Padova, Italy }
-\vspace{6pt}
-
-\cvline{2nd semester 2016}{\textit{Algebra 1} (undergraduate course 113107 B\&C, 60 hours each) -- 2 courses}
-
-\vspace{6pt}
-\cvline{1st semester 2016}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 75 hours)}
-\cvline{}{\textit{Group Theory 2} (Master course 313386, 60 hours)}
-\vspace{6pt}
-
-\cvline{2nd semester 2015}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 75 hours)}
-
-\vspace{6pt}
-\cvline{1st semester 2015}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-\cvline{}{\textit{Group Theory 2} (Master course 313386, 60 hours)}
-\vspace{6pt}
-
-\cvline{2nd semester 2014}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 75 hours)}
-\cvline{}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-
-
-\vspace{6pt}
-\cvline{1st semester 2014}{\textit{Introduction to algebra} (Master course, 60 hours)}
-\cvline{}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 75 hours)}
-\vspace{6pt}
-
-\cvline{2nd semester 2013}{\textit{Introduction to Linear Algebra} (undergraduate course 113093, 75 hours)}
-\cvline{}{\textit{Calculus III} (undergraduate course 113051, 75 hours)}
-
-
-\vspace{6pt}
-\cvline{1st semester 2013}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
-\cvline{}{\textit{Calculus III} (undergraduate course 113051, 75 hours)}
-
+commenti
 -->
