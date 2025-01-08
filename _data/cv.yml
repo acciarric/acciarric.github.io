@@ -55,7 +55,7 @@
       year: 2011 - 2013
       description:
         - funded by Conselho Nacional de Desenvolvimento Científico e Tecnológico -Brazil
-   
+
 - title: Organazing Activities
   type: time_table
   contents:
@@ -63,21 +63,24 @@
              of Young Researchers</a>
       year: 2025
       description: University of the Basque Country, Bilbao, Spain
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.          
+    - title: Group Theory Session at <a href="https://cla2024.mat.uc.cl/">Algebra Latin-American Colloquium 2024</a>
+      year: 2024
+      description: Pontifícia Universidad Católica de Chile, Santiago de Chile, Chile
+    - title: <a href="https://events.math.unipd.it/tgt/">Topics in Group Theory</a>,  a conference on the occasion of A. Lucchini 60th birthday
+      year: 2024
+      description: Department of Mathematics 'Tullio Levi-Civita', University of Padova, Padova, Italy
+    - title: <a href="https://acciarricristina.wixsite.com/pavel60">Finite and Residually Finite Groups</a>, a conference in honor of 60th birthday of P. Shumyatsky
+      year: 2023
+      description: University of the Basque Country, Bilbao, Spain
+    - title: Group Theory Session at <a href="https://impa.br/en_US/eventos-do-impa/">33rd Brazilian Mathematical Colloquium</a>
+      year: 2021
+      description: IMPA, Rio de Janeiro, Brazil
+    - title: <a href="https://www.mat.unb.br/verao2020/workshop_en.html">XII Summer Workshop in Mathematics</a>
+      year: 2020
+      description: University of Brasilia, Brasília, Brazil 
+    - title: <a href="https://sites.google.com/view/grouptheoryatcla2019/home">Group Theory Session</a> at <a href="https://cla2019.math.org.mx">XXIII Algebra Latin-American Colloquium</a>
+      year: 2019
+      description: Colegio Nacional, Mexico City, Mexico              
 
 - title: Honors and Awards
   type: time_table
