@@ -389,16 +389,16 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-simple-inline-announcement-hello-word-welcome-to-my-new-homepage",
-          title: 'A simple inline announcement: hello word! welcome to my new homepage!',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-i-am-coorganizing-jointly-with-m-vannacci-and-a-zozaya-the-finite-and-profinite-groups-session-at-rsme-s-7th-congress-of-young-researchers-that-will-be-held-in-bilbao-from-13th-to-17th-january-2025",
           title: 'I am coorganizing, jointly with M. Vannacci and A. Zozaya, the ‘Finite and...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-amp-gt-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by",
+          title: 'I will be an invited keynote speaker at the INdAM Workshop “Old and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
