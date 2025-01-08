@@ -25,6 +25,8 @@ social: true # includes social icons at the bottom of the page
 
 [//]: #  Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
+Welcome to my HomePage!
+
 I am an Italian mathematician and currently I am an Associate Professor, (with ASN qualification as "[professore di prima fascia](https://asn21.cineca.it/pubblico/miur/esito-abilitato/01%252FA2/1/4) in 01/A2 Geometria e Algebra") at the [Department of Physics, Informatics and Mathematics](https://www.fim.unimore.it/it) of the [University of Modena and Reggio Emilia](https://www.unimore.it/)- Italy.
 
 I received my Bachelor and Master degrees in Mathematics at the [Universit&agrave; degli Studi di Roma "La Sapienza"](http://www.uniroma1.it) (Italy). Then I moved to the [Università degli Studi di L'Aquila](http://www.univaq.it/) for my PhD degree, and I spent two years at the [Universidad del País Vasco/Euskal Herriko Unibertsitatea](http://www.ehu.es/) (Spain) working in collaboration with my PhD supervisor Gustavo Fernández-Alcober. 
