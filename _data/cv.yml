@@ -101,10 +101,10 @@
 - title: Membership
   type: nested_list
   contents:
-    - title: <a href=" https://www.altamatematica.it/gnsaga">INdAM</a> - Instituto Nazionale di Alta Matematica - GNSAGA
+    - title: <a href="https://www.altamatematica.it/gnsaga">INdAM</a> - Instituto Nazionale di Alta Matematica - GNSAGA
       items:
         - Description 1.
-    - title: <a href="https: // www. europeanwomeninmaths.org/ profile/ cristina-acciarri/">European Women in Mathematics</a>
+    - title: <a href="https://www.europeanwomeninmaths.org/profile/cristina-acciarri/">European Women in Mathematics</a>
       items:
         - Description 1.
     - title: <a href="https://umi.dm.unibo.it">UMI</a>, Unione Matematica Italiana
