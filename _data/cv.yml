@@ -14,21 +14,21 @@
   type: time_table
   contents:
     - title: PhD in Mathematics
-      institution: Department of Pure and Applied Mathematics,University of L'Aquila, Italy
+      institution: Department of Pure and Applied Mathematics, University of L'Aquila, Italy
       year: 2010
       description:
-        - Excellent with “European PhD label", under the supervision of Gustavo A. Fernández Alcober (University of the Basque Country).
+        - Excellent with “European PhD label", under the supervision of G. A. Fernández Alcober (University of the Basque Country).
         - Area Algebra, Group Theory
         - title: Title "Positive laws on large sets of generators and on word values in residually-\(p\) groups"
           contents:
             -full text available at the following <a href="https://www.researchgate.net/publication/249314275_Positive_laws_on_large_sets_of_generators_and_on_word_values_in_residually-p_groups"> link</a>
     - title: Laurea Specialistica in Mathematics
-      institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
+      institution: Department of Mathematics G. Castelnuovo, University of Rome 'La Sapienza', Rome, Italy 
       year: 2006
       description:
         - 110/110 e lode (top grade)
     - title: Laurea Triennale in Mathematics
-      institution: Department of Mathematics G. Castelnuovo,University of Rome 'La Sapienza',Rome,Italy 
+      institution: Department of Mathematics G. Castelnuovo, University of Rome 'La Sapienza', Rome, Italy 
       year: 2004
       description:
        - 110/110 e lode (top grade)
@@ -56,12 +56,28 @@
       description:
         - funded by Conselho Nacional de Desenvolvimento Científico e Tecnológico -Brazil
    
-- title: Open Source Projects
+- title: Organazing Activities
   type: time_table
   contents:
+    - title: Finite and Profinite Groups Session at <a href="https://jovenes2025.rsme.es/index_en.html">RSME’s 7th Congress
+             of Young Researchers</a>
+      year: 2025
+      description: University of the Basque Country, Bilbao, Spain
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.          
 
 - title: Honors and Awards
   type: time_table
