@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: List of courses I taught, organized by universities. Advising information and some teaching material.
 nav: true
 nav_order: 6
 ---
@@ -78,9 +78,6 @@ Organize your courses by years, topics, or universities, however you like!
         <h5 class="font-weight-bold">academic year 21-22</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            10-701
-        </span>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
@@ -94,6 +91,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 
 
+<!--- 
 [//] # \vspace{-5pt}
 [//] #  \section{Teaching}
 
@@ -171,4 +169,4 @@ Organize your courses by years, topics, or universities, however you like!
 \cvline{1st semester 2013}{\textit{Algebra 1} (undergraduate course 113107 B, 60 hours)}
 \cvline{}{\textit{Calculus III} (undergraduate course 113051, 75 hours)}
 
-
+-->
