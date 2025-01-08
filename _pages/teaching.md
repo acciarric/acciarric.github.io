@@ -11,13 +11,13 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-<h3 class="mt-4">carnegie mellon university</h3>
+<h3 class="mt-4">University of Modena and Reggio Emilia</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+        <h5 class="font-weight-bold">academic year 24-25</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
@@ -25,13 +25,30 @@ Organize your courses by years, topics, or universities, however you like!
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Guest Lecturer / Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Graduate-level introduction to machine learning course taught by <a href="http://www.cs.cmu.edu/~tom">Tom Mitchell</a>.</li>
-      <li class="list-group-item">— Lecture on gaussian mixture models (GMM): <a href="/assets/pdf/teaching/gmm_lecture.pdf">slides</a> and <a href="/assets/pdf/teaching/gmm_lecture_code.zip">code</a></li>
-      <li class="list-group-item">— Lecture on co-training and accuracy estimation using unlabeled data: <a href="/assets/pdf/teaching/cotraining_and_accuracy_estimation_lecture.pdf">slides</a></li>
-      <li class="list-group-item">— Lecture reviewing graphical models basics: <a href="/assets/pdf/teaching/graphical_models_review_lecture.pdf">slides</a></li>
-      <li class="list-group-item">— <a href="/assets/pdf/teaching/logistic_regression_and_convex_optimization.pdf">Recitation notes</a> on logistic regression and convex optimization</li>
+      <li class="list-group-item">- <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
+      <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
+      <li class="list-group-item">— Fondamenti di algebra e geometria: graduate course M263-065, 21 hours </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 23-24</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            10-701
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">- <b>Strutture algebriche</b>: graduate course MN1-512, 28 hours </li>
+      <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
     </ul>
   </div>
 </div>
@@ -41,14 +58,8 @@ Organize your courses by years, topics, or universities, however you like!
 
 [//] # \vspace{-5pt}
 [//] #  \section{Teaching}
-\cvitem{\textbf{Instructor}}{at Department of Physics, Informatics and Mathematics, \textbf{Universit\`a degli Studi di Modena e Reggio Emilia} (Italy)}
-\cvline{academic year 24-25}{\textit{Algebra superiore}  (graduate course MN1-306, 42 hours)}
-\cvline{}{\textit{Fondamenti di algebra e geometria} (graduate course M263-065, 21 hours)}
-\cvline{}{\textit{Algebra A} (undergraduate course MN1-1030, 72 hours)}
-\vspace{6pt}
-\cvline{academic year 23-24}{\textit{Strutture algebriche}  (graduate course MN1-512, 28 hours)}
-\cvline{}{\textit{Algebra A} (undergraduate course MN1-1030, 72 hours)}
-\vspace{6pt}
+
+
 \cvline{academic year 22-23}{\textit{Algebra superiore}  (graduate course MN1-306, 36 hours)}
 \cvline{}{\textit{Matematica} (undergraduate course SB-25/B-47, 56 hours)}
 \vspace{6pt}
