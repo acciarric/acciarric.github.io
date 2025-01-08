@@ -59,18 +59,12 @@
         - funded by Conselho Nacional de Desenvolvimento Científico e Tecnológico -Brazil
 
 - title: Research
-  type: time_table
+  type: map
   contents:
-    - title: Research Interest
-      description:  My research area in mathematics is Group Theory and more specifically I’m interested in
-      - profinite groups, residually finite groups, 
-      - verbal subgroups and words in groups, 
-      - coprime automorphisms of groups, 
-      - graphs and probabilistic properties of finite and profinite groups, 
-      - graded Lie algebras. 
-    - title: Publications
-      description: 
-      - For the complete list of my publications see the <a href="https://acciarric.github.io/publications/">publications page</a>
+    - name: Research Interest
+      value:  My research area in mathematics is Group Theory and more specifically I’m interested in  profinite groups, residually finite groups, verbal subgroups and words in groups, coprime automorphisms of groups, graphs and probabilistic properties of finite and profinite groups,graded Lie algebras. 
+    - name: Publications
+      value: For the complete list of my publications see the <a href="https://acciarric.github.io/publications/">publications page</a>
    
 - title: Organazing Activities
   type: time_table
