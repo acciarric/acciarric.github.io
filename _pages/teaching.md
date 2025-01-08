@@ -130,18 +130,16 @@ Organize your courses by years, topics, or universities, however you like!
         <h5 class="font-weight-bold">academic year 2021</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            10-701
-        </span>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester<li>
+      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours,1st semester<li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours,1st semester </li>
     </ul>
   </div>
 </div>
+<!--- 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
