@@ -62,7 +62,13 @@
   type: map
   contents:
     - name: Research Interest
-      value:  My research area in mathematics is Group Theory and more specifically I’m interested in  profinite groups, residually finite groups, verbal subgroups and words in groups, coprime automorphisms of groups, graphs and probabilistic properties of finite and profinite groups,graded Lie algebras. 
+      value:  My research area in Mathematics is <b>Group Theory</b> and more specifically I’m interested in <ul>
+       <li>profinite groups and residually finite groups,</li>
+       <li>verbal subgroups and words in groups,</li> 
+       <li>coprime automorphisms of groups,</li>  
+       <li>graphs and probabilistic properties of groups,</li>
+       <li> graded Lie algebras.</li>  
+       </ul>
     - name: Publications
       value: For the complete list of my publications see the <a href="https://acciarric.github.io/publications/">publications page</a>
    
