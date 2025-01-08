@@ -20,8 +20,8 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </br>
-      — Algebra A: undergraduate course MN1-1030, 72 hours</br> 
+      — <b>Algebra superiore</b>: graduate course MN1-306, 42 hours <br>
+      — Algebra A: undergraduate course MN1-1030, 72 hours <br> 
       — Fondamenti di algebra e geometria: graduate course M263-065, 21 hours 
   </div>
 </div>
