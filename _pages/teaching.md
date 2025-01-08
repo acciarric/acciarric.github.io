@@ -19,12 +19,10 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
-      <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
-      <li class="list-group-item">— Fondamenti di algebra e geometria: graduate course M263-065, 21 hours </li>
-    </ul>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
+      — <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </br>
+      — Algebra A: undergraduate course MN1-1030, 72 hours</br> 
+      — Fondamenti di algebra e geometria: graduate course M263-065, 21 hours 
   </div>
 </div>
 <div class="card mt-3">
@@ -36,7 +34,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Strutture algebriche</b>: graduate course MN1-512, 28 hours </li>
       <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
@@ -52,7 +50,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
       <li class="list-group-item">— Matematica: undergraduate course SB-25/B-47, 56 hours </li>
@@ -68,7 +66,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Strutture algebriche</b>: graduate course MN1-512, 36 hours </li>
       <li class="list-group-item">— Geometria e Algebra Lineare: undergraduate course MECC-2, 20 hours </li>
@@ -88,7 +86,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>On Lie ring methods in group theory</b>: PhD course in English, 10 hours</li>
     </ul>
@@ -107,7 +105,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>On Lie ring methods in group theory</b>: PhD course in English, 16 hours</li>
     </ul>
@@ -126,7 +124,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester</li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours,1st semester </li>
@@ -142,7 +140,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 2nd semester</li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours, 2nd semester </li>
@@ -159,7 +157,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester</li>
@@ -176,7 +174,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
@@ -194,7 +192,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester </li>
@@ -212,7 +210,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester</li>
@@ -229,7 +227,7 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester</li>
@@ -247,12 +245,12 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
       <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester</li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours</li>
-      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours 1st semester </li>
+      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester</li>
+      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours, 1st semester </li>
     </ul>
   </div>
 </div>
