@@ -27,7 +27,7 @@ Organize your courses by years, topics, or universities, however you like!
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">- <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
+      <li class="list-group-item">— <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
       <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
       <li class="list-group-item">— Fondamenti di algebra e geometria: graduate course M263-065, 21 hours </li>
     </ul>
@@ -47,8 +47,46 @@ Organize your courses by years, topics, or universities, however you like!
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">- <b>Strutture algebriche</b>: graduate course MN1-512, 28 hours </li>
+      <li class="list-group-item">— <b>Strutture algebriche</b>: graduate course MN1-512, 28 hours </li>
       <li class="list-group-item">— Algebra A: undergraduate course MN1-1030, 72 hours </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 22-23</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            10-701
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Algebra superiore</b>: graduate course MN1-306, 42 hours </li>
+      <li class="list-group-item">— Matematica: undergraduate course SB-25/B-47, 56 hours </li>
+    </ul>
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 21-22</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
+            10-701
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">— <b>Strutture algebriche</b>: graduate course MN1-512, 36 hours </li>
+      <li class="list-group-item">— Geometria e Algebra Lineare: undergraduate course MECC-2, 20 hours </li>
     </ul>
   </div>
 </div>
@@ -60,12 +98,7 @@ Organize your courses by years, topics, or universities, however you like!
 [//] #  \section{Teaching}
 
 
-\cvline{academic year 22-23}{\textit{Algebra superiore}  (graduate course MN1-306, 36 hours)}
-\cvline{}{\textit{Matematica} (undergraduate course SB-25/B-47, 56 hours)}
-\vspace{6pt}
-\cvline{academic year 21-22}{\textit{Strutture algebriche}  (graduate course MN1-512, 36 hours)}
-\cvline{}{\textit{Geometria e Algebra Lineare} (undergraduate course MECC-2, 20 hours)}
-[//]: # \vspace{15pt}
+
 
 
 \cvitem{\textbf{Instructor}}{at Department of Mathematics, \textbf{EHU/UPV Universidad del Pa\'is Vasco}, Bilbao (Spain)}
