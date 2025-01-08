@@ -20,9 +20,6 @@ Organize your courses by years, topics, or universities, however you like!
         <h5 class="font-weight-bold">academic year 24-25</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            10-701
-        </span>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Departhment of Physics, Informatics and Mathematics</h6>
@@ -104,6 +101,7 @@ Organize your courses by years, topics, or universities, however you like!
       <li class="list-group-item">— <b>On Lie ring methods in group theory</b>: PhD course in English, 10 hours</li>
     </ul>
   </div>
+ </div> 
 
 <h3 class="mt-4">University of Padova (Italy) </h3>
 
@@ -121,6 +119,7 @@ Organize your courses by years, topics, or universities, however you like!
       <li class="list-group-item">— <b>On Lie ring methods in group theory</b>: PhD course in English, 16 hours</li>
     </ul>
   </div>
+ </div> 
 
 <h3 class="mt-4">University of Brasilia (Brazil)</h3>
 
@@ -156,8 +155,6 @@ Organize your courses by years, topics, or universities, however you like!
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 2nd semester<li>
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours, 2nd semester </li>
-    </ul>
-    <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours, 1st semester </li>
     </ul>
   </div>
