@@ -98,7 +98,7 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-     — <b><a href="https://www.math.unipd.it/~dottmath/corsi2018/Acciarri.pdf">On Lie ring methods in group theory</a>: PhD course in English, 16 hours
+     — <b><a href="https://www.math.unipd.it/~dottmath/corsi2018/Acciarri.pdf">On Lie ring methods in group theory</a></b>: PhD course in English, 16 hours
   </div>
  </div> 
 
@@ -226,7 +226,6 @@ nav_order: 6
       — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester<br>
       — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
       — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 1st semester <br>
-    </ul>
   </div>
 </div>
 
