@@ -64,7 +64,7 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
       — <b>Strutture algebriche</b>: graduate course MN1-512, 36 hours <br>
-      — Geometria e Algebra Lineare: undergraduate course MECC-2, 20 hours <br>
+      — <b>Geometria e Algebra Lineare</b>: undergraduate course MECC-2, 20 hours <br>
   </div>
 </div>
 
@@ -80,13 +80,13 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Department Mathematics</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
       — <b>On Lie ring methods in group theory</b>: PhD course in English, 10 hours
   </div>
  </div> 
 
 
-<h3 class="mt-4">University of Padova (Italy) </h3>
+<h3 class="mt-4"><a href="https://dottorato.math.unipd.it/current_activity/past_courses">University of Padova</a> (Italy) </h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -97,13 +97,13 @@ nav_order: 6
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Department Mathematics</h6>
-     — <b>On Lie ring methods in group theory</b>: PhD course in English, 16 hours
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
+     — <b><a href="https://www.math.unipd.it/~dottmath/corsi2018/Acciarri.pdf">On Lie ring methods in group theory</a>: PhD course in English, 16 hours
   </div>
  </div> 
 
 
-<h3 class="mt-4">University of Brasilia (Brazil)</h3>
+<h3 class="mt-4"><a href="https://moodle.mat.unb.br/?lang=pt_br">University of Brasilia (Brazil)</a></h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -144,11 +144,9 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester </li>
-    </ul>
+      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester<br>
+     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -161,12 +159,10 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester </li>
-    </ul>
+     — <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester <br>
+     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
+     — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester<br>
+     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -179,12 +175,10 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester </li>
-    </ul>
+      — <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester <br>
+      — <b>Algebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester <br>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester<br>
+      — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -197,11 +191,9 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester </li>
-    </ul>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
+      — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -214,12 +206,10 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester</li>
-      <li class="list-group-item">— <b>Introduction to algebra</b>: Master course, 60 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester </li>
-    </ul>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester<br>
+      — <b>Introduction to algebra</b>: Master course, 60 hours, 1st semester<br>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -232,11 +222,10 @@ nav_order: 6
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">— <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester </li>
-      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester</li>
-      <li class="list-group-item">— <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester</li>
-      <li class="list-group-item">— <b>Calculus III</b>: undergraduate course 113051, 75 hours, 1st semester </li>
+      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester<br>
+      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
+      — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 1st semester <br>
     </ul>
   </div>
 </div>
