@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be an invited keynote speaker at the <a href="https://sites.google.com/view/indamwrome25/home?authuser=0">INdAM Workshop "Old and New Trends in Mathematical Collaboration between Brazil and Italy"</a> that will be held in Rome, 23rd-27th June 2025, organized by  
+I will be an invited keynote speaker at the <a href="https://sites.google.com/view/indamwrome25/home?authuser=0">INdAM Workshop "Old and New Trends in Mathematical Collaboration between Brazil and Italy"</a> that will be held in Rome, 23rd-27th June 2025, organized by INdAM, the Brazilian Embassy in Rome and SBM-Brazil.  
