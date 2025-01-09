@@ -397,7 +397,7 @@ ninja.data = [{
             },},{id: "news-i-am-coorganizing-jointly-with-m-vannacci-and-a-zozaya-the-finite-and-profinite-groups-session-at-rsme-s-7th-congress-of-young-researchers-that-will-be-held-in-bilbao-from-13th-to-17th-january-2025",
           title: 'I am coorganizing, jointly with M. Vannacci and A. Zozaya, the ‘Finite and...',
           description: "",
-          section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by",
+          section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by-indam-the-brazilian-embassy-in-rome-and-sbm-brazil",
           title: 'I will be an invited keynote speaker at the INdAM Workshop “Old and...',
           description: "",
           section: "News",},{id: "projects-project-1",
