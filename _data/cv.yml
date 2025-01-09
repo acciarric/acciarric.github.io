@@ -104,16 +104,34 @@
     - name: 
       value: For the complete list of courses that I taught see the <a href="https://acciarric.github.io/teaching/">teaching page</a>
 
-- title: Advising activities (main advisor, unless otherwise specified)
+- title: Advising activities
   type: time_table
   contents:
     - year: 2024
       items:
-        - Roberto Roversi, BSc in Mathematics, University of Modena and Reggio Emilia, Commuting Probability in Finite Groups
+        - <b>Roberto Roversi</b>, BSc in Mathematics, University of Modena and Reggio Emilia, Commuting Probability in Finite Groups
     - year: 2020
       items:
-        - João Pedro Papalardo Azevedo, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
-
+        - <b>João Pedro Papalardo Azevedo</b>, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
+        - <b>Mateus Figueiredo de Souza</b>, MSc in Mathematics, University of Brasilia, Centralizadores em Grupos de Torção Residualmente Finitos. Um estudo via Métodos de Lie., with CAPES grant.
+    - year: 2018
+      items:
+        - <b>Danilo S. da Silveira</b>, PhD in Mathematics, University of Brasilia. Grupos com automorfismos cujos pontos fixos são Engel, with CAPES grant. Cosupervised jointly with P. Shumyatsky
+    - year: 2017
+      items:
+        - <b>Sara Raissa Silva Rodrigues</b>, MSc in Mathematics, University of Brasilia. Sobre grupos finitos e profinitos quase-Engel, with CAPES grant.
+    - year: 2016
+      items:
+        - <b>João Pedro Papalardo Azevedo</b>, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
+        - <b>Mateus Figueiredo de Souza</b>, MSc in Mathematics, University of Brasilia, Centralizadores em Grupos de Torção Residualmente Finitos. Um estudo via Métodos de Lie., with CAPES grant.
+    - year: 2015
+      items:
+        - <b>Sara Raissa Silva Rodrigues</b>, MSc in Mathematics, University of Brasilia. Sobre grupos finitos e profinitos quase-Engel, with CAPES grant.
+    - year: 2014
+      items:
+        - <b>João Pedro Papalardo Azevedo</b>, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
+        - <b>Mateus Figueiredo de Souza</b>, MSc in Mathematics, University of Brasilia, Centralizadores em Grupos de Torção Residualmente Finitos. Um estudo via Métodos de Lie., with CAPES grant.
+    
 - title: Membership
   type: nested_list
   contents:
