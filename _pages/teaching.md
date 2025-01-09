@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of courses that I taught as teacher in charge, organized by universities. Advising information and some teaching material.
+description: List of courses that I taught as teacher in charge, organized by universities.
 nav: true
 nav_order: 6
 ---
@@ -69,7 +69,7 @@ nav_order: 6
 </div>
 
 
-<h3 class="mt-4">EHU/UPV University of the Basque Country (Spain) </h3>
+<h3 class="mt-4">University of the Basque Country (Spain) </h3>
 
 <div class="card mt-3">
   <div class="p-3">
