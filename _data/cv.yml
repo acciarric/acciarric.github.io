@@ -107,12 +107,12 @@
 - title: Advising activities (main advisor, unless otherwise specified)
   type: time_table
   contents:
-     - year: 2024
-        items:
-         - Roberto Roversi, BSc in Mathematics, University of Modena and Reggio Emilia, Commuting Probability in Finite Groups
-     - year: 2020
-         items:
-         - João Pedro Papalardo Azevedo, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
+    - year: 2024
+      items:
+        - Roberto Roversi, BSc in Mathematics, University of Modena and Reggio Emilia, Commuting Probability in Finite Groups
+    - year: 2020
+      items:
+        - João Pedro Papalardo Azevedo, MSc in Mathematics, University of Brasilia,  Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism, a Lie-Theoretic Approach, with CAPES grant  
 
 - title: Membership
   type: nested_list
