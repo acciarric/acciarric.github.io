@@ -96,7 +96,45 @@
       description: University of Brasilia, Brasília, Brazil 
     - title: <a href="https://sites.google.com/view/grouptheoryatcla2019/home">Group Theory Session</a> at <a href="https://cla2019.math.org.mx">XXIII Algebra Latin-American Colloquium</a>
       year: 2019
-      description: Colegio Nacional, Mexico City, Mexico              
+      description: Colegio Nacional, Mexico City, Mexico   
+      
+- title: Selected Invited Talks
+  type: time_table
+  contents:
+    - title: Rank type conditions on commutators in finite groups, <a href="https://events.math.unipd.it/tgt/">Topics in Group Theory</a>
+      year: 2024
+      description: University of Padova, Italy
+    - title:  On groups with automorphisms whose fixed points satisfy Engel-like conditions, <a href="https://ysantosrego.github.io/files/EK-Algebra10/">10 Years of Algebra at Lincoln</a>
+      year: 2024
+      description: University of Lincoln, UK 
+    - title: On conciseness of words in residually finite groups, <a href="http://2023uwgtc.imm.uran.ru">Ural Workshop on Group Theory and Combinatorics</a>
+      year: 2023
+      description: Ural Federal University, Yekaterinburg, Russia (online)
+    - title: Coprime automorphisms of finite groups, <a href="https://acciarricristina.wixsite.com/pavel60">Finite and Residually Finite Groups</a>
+      year: 2023
+      description: University of the Basque Country, Bilbao, Spain
+    - title: Coprime automorphisms of finite groups, <a href="https://www.advgrouptheory.com/agta2023/index.html">Advances in Group Theory and Applications 2023</a>
+      year: 2023
+      description: University of Lecce, Italy
+    - title: A stronger version of Neumann’s BFC-theorem, <a href="https://torossmann.github.io/gig21/">Groups in Galway 2021</a>
+      year: 2021
+      description: University of Galway (online),Ireland  
+    - title: A stronger version of Neumann’s BFC-theorem, <a href="https://sites.google.com/unisa.it/e-igt2020/winter-semester-2021">GOTHIC -Ischia Online Group Theory Conference</a> 
+      year: 2021
+      description: University of Salerno (online), Italy
+    - title: Graphs encoding the generating properties of a finite group, <a href="https://spabrazmathcadiz18.uca.es/web/Congreso/?lang=es&page=inicio">II Joint Meeting Spain-Brazil in Mathematics RSME-SEMA-SBM-SBMAC</a> 
+      year: 2018
+      description: University of Cádiz, Spain
+    - title:  Profinite groups and the fixed points of coprime automorphisms, <a href="https://www.ime.unicamp.br/~jovens/index.html">II Congresso Brasileiro de Jovens Pesquisadores em Matemática Pura e Aplicada</a> 
+      year: 2016
+      description: UNICAMP University of Campinas, Brazil 
+    - title:  Positive laws on generators in p-adic analytic pro-p groups, <a href="https://impa.br/en_US/sobre/memoria/coloquios-brasileiros-de-matematica/29o-coloquio-brasileiro-de-matematica-2013/">29^o Colóquio Brasileiro de Matemática</a> 
+      year: 2013
+      description: IMPA - Rio de Janeiro, Brazil 
+    - title:  On verbal subgroups in finite and profinite groups, <a href="https://impa.br/en_US/sobre/memoria/coloquios-brasileiros-de-matematica/29o-coloquio-brasileiro-de-matematica-2013/">XIX Coloquio Latinoamericano de Álgebra</a> 
+      year: 2012
+      description: Universidad de La Frontera, Pucón, Chile    
+    
 
 - title: Teaching
   type: map
