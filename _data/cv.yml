@@ -106,7 +106,7 @@
 
 - title: Advising activities
   type: time_table
-  contents: as main advisor
+  contents:
     - year: 2024
       items:
         - <b>Roberto Roversi</b>, BSc in Mathematics, University of Modena and Reggio Emilia, <i>Commuting Probability in Finite Groups</i>
