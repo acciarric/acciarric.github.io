@@ -113,24 +113,24 @@
     - year: 2020
       items:
         - <b>João Pedro Papalardo Azevedo</b>, MSc in Mathematics, University of Brasilia,  <i>Finite Groups of Bounded Rank Admitting an Almost Regular Automorphism - a Lie-Theoretic Approach</i>, with CAPES grant  
-        - <b>Mateus Figueiredo de Souza</b>, MSc in Mathematics, University of Brasilia, <i>Centralizadores em Grupos de Torção Residualmente Finitos, um estudo via Métodos de Lie</i>, with CAPES grant.
+        - <b>Mateus Figueiredo de Souza</b>, MSc in Mathematics, University of Brasilia, <i>Centralizadores em Grupos de Torção Residualmente Finitos, um estudo via Métodos de Lie</i>, with CAPES grant
     - year: 2018
       items:
-        - <b>Danilo S. da Silveira</b>, PhD in Mathematics, University of Brasilia, <i>Grupos com automorfismos cujos pontos fixos são Engel</i>, with CAPES grant. Cosupervised jointly with P. Shumyatsky
+        - <b><a href="https://www.researchgate.net/profile/Danilo-Silveira">Danilo S. da Silveira</a></b>, PhD in Mathematics, University of Brasilia, <i>Grupos com automorfismos cujos pontos fixos são Engel</i>, with CAPES grant. Cosupervised jointly with P. Shumyatsky
     - year: 2017
       items:
-        - <b>Sara Raissa Silva Rodrigues</b>, MSc in Mathematics, University of Brasilia, <i>Sobre grupos finitos e profinitos quase-Engel</i>, with CAPES grant.
+        - <b>Sara Raissa Silva Rodrigues</b>, MSc in Mathematics, University of Brasilia, <i>Sobre grupos finitos e profinitos quase-Engel</i>, with CAPES grant
     - year: 2016
       items:
-        - <b>Jéssyca Cristine Lima de Souza</b>, MSc in Mathematics, University of Brasilia,  <i>Involuções e seu centralizadores em grupos finitos</i>, with CNPq grant.  
-        - <b>João Pedro Papalardo Azevedo</b>, "<i>Iniciação científica em álgebra</i>", University of Brasilia, undergraduate independent supervised study with FAPDF grant.
+        - <b>Jéssyca Cristine Lima de Souza</b>, MSc in Mathematics, University of Brasilia,  <i>Involuções e seu centralizadores em grupos finitos</i>, with CNPq grant  
+        - <b>João Pedro Papalardo Azevedo</b>, "<i>Iniciação científica em álgebra</i>", University of Brasilia, undergraduate independent supervised study with FAPDF grant
     - year: 2015
       items:
-        - <b>Rebeca Chuffi Saccochi</b>, MSc in Mathematics, University of Brasilia, <i>Grupos central-por-finito, coberturas de grupos e un problema de P. Erdos</i>, with CNPq grant.
+        - <b>Rebeca Chuffi Saccochi</b>, MSc in Mathematics, University of Brasilia, <i>Grupos central-por-finito, coberturas de grupos e un problema de P. Erdos</i>, with CNPq grant
     - year: 2014
       items:
-        - <b>Leandro Araújo Castro</b>, MSc in Mathematics, University of Brasilia, <i>Generalizando um teorema de P. Hall sobe grupos finitos-por-nilpotentes</i>,with CNPq grant.   
-        - <b>José Vitor Paiva Miranda de Siqueira</b>, "<i>Iniciação científica em álgebra</i>", University of Brasilia, undergraduate independent supervised study with UnB grant.
+        - <b>Leandro Araújo Castro</b>, MSc in Mathematics, University of Brasilia, <i>Generalizando um teorema de P. Hall sobe grupos finitos-por-nilpotentes</i>,with CNPq grant   
+        - <b>José Vitor Paiva Miranda de Siqueira</b>, "<i>Iniciação científica em álgebra</i>", University of Brasilia, undergraduate independent supervised study with UnB grant
     
 - title: Membership
   type: nested_list
