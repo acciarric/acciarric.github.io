@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: List of courses that I taught as teacher in charge, organized by universities.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 
