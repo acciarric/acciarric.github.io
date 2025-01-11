@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: miscellanea
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of miscellaneous items, as pictures, some useful links and videos.
 nav: true
 nav_order: 5
 display_categories: [work, fun]
