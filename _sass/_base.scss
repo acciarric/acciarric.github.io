@@ -730,7 +730,7 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
 
       .preview {
-        width: 100%;
+        width: 100%;  // added these 3 lines to adjust preview images in publications
         min-width: 80px;
         max-width: 500px;
       }
