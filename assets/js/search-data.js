@@ -103,6 +103,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-7895-7705", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://personale.unimore.it/rubrica/dettaglio/acciarric", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
