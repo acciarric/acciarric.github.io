@@ -8,9 +8,9 @@
     - name:  Address
       value: Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia, via Giuseppe Campi, 213/b - 41125 Modena, Italy
     - name:  E-mail 
-      value: cristina (dot) acciarri (at) unimore (dot) it
+      value: cristina.acciarri(at)unimore.it
     - name:  Languages 
-      value: Italian (native), English (good), Spanish (fluent), Portuguese (fluent)   
+      value: Italian (native), English (fluent), Spanish (fluent), Portuguese (fluent)   
 
 - title: Education
   type: time_table
