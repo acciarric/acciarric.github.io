@@ -17,17 +17,19 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
   </div>
 </div>
 <div class="caption">
-    Symmetry, reality's riddle by M. du Sautoy (in English with subs)
+    <b>Symmetry, reality's riddle</b> by M. du Sautoy (in English with subs)
 </div>
+
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" width="1024px" height="576px" title="YouTube video player" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
+      <iframe src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" width="1024px" height="576px" title="L'algèbre" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
    </div>
 </div>
 <div class="caption">
-    La Magie des Maths de Prépa (1/2) - L'algèbre by  / @le_science4all  (in French with English subs)
+    <b>La Magie des Maths de Prépa (1/2) - L'algèbre </b> by  / @le_science4all  (in French with English subs)
 </div>
+
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
       <iframe src="https://embed.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever" width="1024px" height="576px" title="Math is forever" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')">
@@ -35,8 +37,9 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
    </div>
 </div>
 <div class="caption">
-    Las matemáticas son para siempre by E. Sáenz de Cabezón (in Spanish with subs)
+    <b>Las matemáticas son para siempre</b> by E. Sáenz de Cabezón (in Spanish with subs)
 </div>
+
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
       <iframe src="https://embed.ted.com/talks/scott_kim_the_art_of_puzzles" width="1024px" height="576px" title="The art of puzzles" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')">
@@ -44,8 +47,9 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
    </div>
 </div>
 <div class="caption">
-    The art of puzzles by S. Kim (in English with subs)
+    <b>The art of puzzles</b> by S. Kim (in English with subs)
 </div>
+
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
         <iframe src="https://embed.ted.com/talks/e_o_wilson_advice_to_a_young_scientist" width="1024px" height="576px"   title="Advice to a young scientist" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')">
@@ -53,16 +57,17 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
     </div>
 </div>
 <div class="caption">
-    Advice to young scientist by E.O. Wilson (in English with subs)
+    <b>Advice to young scientist</b> by E.O. Wilson (in English with subs)
 </div>
+
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/EJn_88Ru7w4?si=TkdXis8f5vPAQu1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        <iframe  src="https://www.youtube.com/embed/EJn_88Ru7w4?si=TkdXis8f5vPAQu1M" width="1024px" height="576px" title="Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin"  style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0"  scrolling="no" allowfullscreen>
         </iframe>
     </div>
 </div>
 <div class="caption">
-    Gerhard Widmer on Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin (in English with subs) See also more videos on [IMAGINARY videos](https://www.imaginary.org/films)
+    Gerhard Widmer on <b>Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin</b> (in English with subs). <br> See also more videos on <a href="https://www.imaginary.org/films">IMAGINARY videos</a>
 </div>
 
 [//]: #  <div class="row">
