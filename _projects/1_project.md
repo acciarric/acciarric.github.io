@@ -67,7 +67,7 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
     </div>
 </div>
 <div class="caption">
-    Gerhard Widmer on <b>Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin</b> (in English with subs). <br> See also more videos on <a href="https://www.imaginary.org/films">IMAGINARY videos</a>
+    Gerhard Widmer on <b>Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin</b> (in German with subs). <br> See also more videos on <a href="https://www.imaginary.org/films">IMAGINARY videos</a>
 </div>
 
 [//]: #  <div class="row">
