@@ -43,9 +43,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by-indam-the-brazilian-embassy-in-rome-and-sbm-brazil",
           title: 'I will be an invited keynote speaker at the INdAM Workshop “Old and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-videos-on-maths",
+          title: 'videos on maths',
+          description: "(and not only)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-3-with-very-long-name",
