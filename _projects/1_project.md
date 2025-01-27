@@ -21,7 +21,7 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
 </div>
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+      <iframe src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" width="1024px" height="576px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
       </iframe>
    </div>
 </div>
@@ -55,7 +55,6 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
 <div class="caption">
     Advice to young scientist by E.O. Wilson (in English with subs)
 </div>
-</div>
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EJn_88Ru7w4?si=TkdXis8f5vPAQu1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -66,11 +65,11 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
     Gerhard Widmer on Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin (in English with subs) See also more videos on [IMAGINARY videos](https://www.imaginary.org/films)
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+[//]: #  <div class="row">
+[//]: #      <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
+[//]: #     </div>
+[//]: # </div>
+[//]: # <div class="caption">
     This image can also have a caption. It's like magic.
-</div>
+[//]: # </div>
