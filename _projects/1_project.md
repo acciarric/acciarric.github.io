@@ -21,7 +21,7 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
 </div>
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" width="1024px" height="576px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+      <iframe src="https://www.youtube.com/embed/wENkW8SXYXw?si=pkXlH7qd9w4obRhk" width="1024px" height="576px" title="YouTube video player" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
    </div>
 </div>
@@ -67,9 +67,9 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
 
 [//]: #  <div class="row">
 [//]: #      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+[//]: # {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 [//]: #     </div>
 [//]: # </div>
 [//]: # <div class="caption">
-    This image can also have a caption. It's like magic.
+[//]: #    This image can also have a caption. It's like magic.
 [//]: # </div>
