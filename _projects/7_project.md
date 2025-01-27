@@ -74,7 +74,7 @@ Some pictures of places that I visited and events that I attended.  Many friends
     </div>
 </div>
 <div class="caption">
-    Escola de Álgebra, 2012 Salvador da Bahia.
+    Escola de Álgebra, Salvador da Bahia 2012.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -88,21 +88,21 @@ Some pictures of places that I visited and events that I attended.  Many friends
     </div>
 </div>
 <div class="caption">
-    16th Jerusalem Midrasha Mathematicae 2012. On the left and middle, at the Mount of Olives; right, at the Wailing Wall.
+    16th Jerusalem Midrasha Mathematicae 2012. On the left, view of the Mount of Olives from the Old City. Middle, at the Mount of Olives.  Right, at the Wailing Wall.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_2.jpg" title="MFO_1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11.jpg" title="MFO_2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_4.jpg" title="MFO_3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   Oberwolfach Seminar, Mathematisches Forschungsinstitut Oberwolfach 2011.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
