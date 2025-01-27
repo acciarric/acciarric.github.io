@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Some pictures of places that I visited and events that I attended.  Many friends and mathematicians make the following pictures much nicer.
+Some pictures of places that I visited and events that I attended.  Many friends and mathematicians make the following pictures much nicer. <i class="fa-solid fa-camera-retro">‌</i>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
