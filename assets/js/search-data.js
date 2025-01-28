@@ -48,11 +48,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-useful-links",
+          title: 'useful links',
+          description: "have a look",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/link/";
             },},{id: "projects-some-of-my-talks",
           title: 'some of my talks',
           description: "available online",
