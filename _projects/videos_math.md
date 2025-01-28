@@ -2,7 +2,7 @@
 layout: page
 title: videos on maths
 description: (and not only)
-img: assets/img/12.jpg
+img: assets/img/foto2.png
 importance: 3
 category: work
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: some of my talks
 description: available online
-img: assets/img/12.jpg
+img: assets/img/foto1.png
 importance: 1
 category: work
 related_publications: true
