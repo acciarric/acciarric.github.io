@@ -86,7 +86,7 @@ nav_order: 4
  </div> 
 
 
-<h3 class="mt-4"><a href="https://dottorato.math.unipd.it/current_activity/past_courses">University of Padova</a> (Italy) </h3>
+<h3 class="mt-4"><i class="fa-solid fa-building-columns">‌</i><a href="https://dottorato.math.unipd.it/current_activity/past_courses">University of Padova</a> (Italy) </h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -103,7 +103,7 @@ nav_order: 4
  </div> 
 
 
-<h3 class="mt-4"><a href="https://moodle.mat.unb.br/?lang=pt_br">University of Brasilia</a> (Brazil)</h3>
+<h3 class="mt-4"><i class="fa-solid fa-building-columns">‌</i><a href="https://moodle.mat.unb.br/?lang=pt_br">University of Brasilia</a> (Brazil)</h3>
 
 <div class="card mt-3">
   <div class="p-3">
