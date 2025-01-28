@@ -2,7 +2,7 @@
 layout: page
 title: useful links
 description: have a look 
-img:
+img: assets/img/foto3.webp
 importance: 4
 category: work
 tabs: true
@@ -36,6 +36,9 @@ mathematicians
 
 > [Encyclopedia of Mathematics](http://www.encyclopediaofmath.org/index.php/Main_Page): open access resource for mathematics community
 
+> [Maddmaths!](https://maddmaths.simai.eu): the portal of the dissemination and teaching of mathematics (only in Italian)
+
+
 {% endtab %}
 
 {% tab something-else on bibliographic search %}
@@ -44,7 +47,17 @@ mathematicians
 
 > [zbMATH-Open](http://zbmath.org/): Zentralblatt MATH abstracting and reviewing service in pure and applied mathematics by EMS
 
-> [MathSciNet](https://www.jstor.org): journals, books, etc, it is part of [ITHAKA](https://www.ithaka.org) a not-for-profit organization helping the academic community
+> [JSTOR ](https://www.jstor.org): journals, books, etc, it is part of [ITHAKA](https://www.ithaka.org) a not-for-profit organization helping the academic community
+
+{% endtab %}
+
+{% tab something-else on TeX-LaTeX %}
+
+> [Overleaf](https://it.overleaf.com/): online LaTeX Editor
+
+> [DeTeXify](http://detexify.kirelabs.org/classify.html): a nice applet to find symbol for LaTeX
+
+> [TUGboat](http://www.tug.org/TUGboat/contents.html): the online journal of the [TeX Users Group](https://www.tug.org)
 
 {% endtab %}
 
@@ -64,15 +77,3 @@ mathematicians
 {% endtab %}
 
 {% endtabs %}
-
-
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
