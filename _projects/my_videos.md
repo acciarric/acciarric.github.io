@@ -22,10 +22,10 @@ This is a collection of some videos of my talks that are available online. <i cl
 
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/view" width="1024px" height="576px" title="L'algèbre" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
+      <iframe src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/view?usp=sharing" width="1024px" height="576px" title="L'algèbre" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
    </div>
 </div>
 <div class="caption">
-    <a href="https://ysantosrego.github.io/files/EK-Algebra10/index.html">href="GOThIC (Ischia Online Group Theory Conference)"</a> - A stronger version of Neumann's BFC Theorem
+    <a href="https://ysantosrego.github.io/files/EK-Algebra10/index.html">GOThIC (Ischia Online Group Theory Conference)<a> - A stronger version of Neumann's BFC Theorem
 </div>
