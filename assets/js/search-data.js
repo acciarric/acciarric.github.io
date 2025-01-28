@@ -43,12 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by-indam-the-brazilian-embassy-in-rome-and-sbm-brazil",
           title: 'I will be an invited keynote speaker at the INdAM Workshop “Old and...',
           description: "",
-          section: "News",},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-useful-links",
+          section: "News",},{id: "projects-useful-links",
           title: 'useful links',
           description: "have a look",
           section: "Projects",handler: () => {
