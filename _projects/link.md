@@ -1,8 +1,8 @@
 ---
 layout: page
 title: useful links
-description: have a look 
-img: assets/img/foto3.webp
+description: have a look 😀
+img: assets/img/foto3.jpeg
 importance: 4
 category: work
 tabs: true
