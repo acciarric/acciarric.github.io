@@ -5,7 +5,7 @@ description: available online
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
 This is a collection of some videos of my talks that are available online. <i class="fa-solid fa-file-video">‌</i>
@@ -17,7 +17,7 @@ This is a collection of some videos of my talks that are available online. <i cl
   </div>
 </div>
 <div class="caption">
-    <a href="https://ysantosrego.github.io/files/EK-Algebra10/index.html">Conference: 10 Years of Algebra at Lincoln</a> - On groups with automorphisms whose fixed points satisfy Engel-like conditions 
+    <a href="https://ysantosrego.github.io/files/EK-Algebra10/index.html">Conference: 10 Years of Algebra at Lincoln</a> - On groups with automorphisms whose fixed points satisfy Engel-like conditions {% cite AccKhukShum19 %}
 </div>
 
 <div style="max-width:1024px">

@@ -27,7 +27,7 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
    </div>
 </div>
 <div class="caption">
-    <b>La Magie des Maths de Prépa (1/2) - L'algèbre </b> by  / @le_science4all  (in French with English subs)
+    <b>La Magie des Maths de Prépa (1/2) - L'algèbre </b> by  @le_science4all  (in French with English subs)
 </div>
 
 <div style="max-width:1024px">
