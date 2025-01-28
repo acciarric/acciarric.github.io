@@ -27,7 +27,7 @@ This is a collection of some videos of my talks that are available online. <i cl
    </div>
 </div>
 <div class="caption">
-    <a href="https://sites.google.com/unisa.it/e-igt2020/home?authuser=0">GOThIC (Ischia Online Group Theory Conference)</a> - A stronger version of Neumann's BFC Theorem
+    <a href="https://sites.google.com/unisa.it/e-igt2020/home?authuser=0">GOThIC (Ischia Online Group Theory Conference)</a> - A stronger version of Neumann's BFC Theorem {% cite AccShum21 %}
 </div>
 
 
