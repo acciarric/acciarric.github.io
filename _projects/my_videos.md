@@ -22,7 +22,7 @@ This is a collection of some videos of my talks that are available online. <i cl
 
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe width="560" height="315" src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/view?usp=sharing" title="myvideo in Gothic" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
+      <iframe width="560" height="315" src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/edit" title="myvideo in Gothic" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
    </div>
 </div>
