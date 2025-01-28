@@ -3,7 +3,7 @@ layout: page
 title: videos on maths
 description: (and not only)
 img: assets/img/12.jpg
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---
@@ -70,11 +70,3 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
     Gerhard Widmer on <b>Expressive Music Performance, the Boesendorfer CEUS, and a MIDI Theremin</b> (in German with subs). <br> See also more videos on <a href="https://www.imaginary.org/films">IMAGINARY videos</a>
 </div>
 
-[//]: #  <div class="row">
-[//]: #      <div class="col-sm mt-3 mt-md-0">
-[//]: # {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-[//]: #     </div>
-[//]: # </div>
-[//]: # <div class="caption">
-[//]: #    This image can also have a caption. It's like magic.
-[//]: # </div>

@@ -3,7 +3,7 @@ layout: page
 title: pictures
 description: congresees, events, etc
 img: assets/img/foto/workshop_unb_20.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
