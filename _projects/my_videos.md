@@ -22,10 +22,27 @@ This is a collection of some videos of my talks that are available online. <i cl
 
 <div style="max-width:1024px">
     <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/view?usp=sharing" width="1024px" height="576px" title="L'algèbre" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
+      <iframe width="560" height="315" src="https://drive.google.com/file/d/1wsSrGHpxhsOIuGXIfsfdxzR6Z9-wLplj/view?usp=sharing" title="myvideo in Gothic" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
    </div>
 </div>
 <div class="caption">
-    <a href="https://ysantosrego.github.io/files/EK-Algebra10/index.html">GOThIC (Ischia Online Group Theory Conference)<a> - A stronger version of Neumann's BFC Theorem
+    <a href="https://sites.google.com/unisa.it/e-igt2020/home?authuser=0">GOThIC (Ischia Online Group Theory Conference)<a> - A stronger version of Neumann's BFC Theorem
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
