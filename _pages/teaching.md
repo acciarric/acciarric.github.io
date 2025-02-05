@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 
-<h3 class="mt-4"><i class="fa-solid fa-building-columns" style="color:var(--global-text-color)">‌</i> <a href="https://moodle.unimore.it/">University of Modena and Reggio Emilia</a> (Italy)</h3>
+<h3 class="mt-4"><i class="fa-solid fa-building-columns" style="color:var(--global-theme-color)">‌</i> <a href="https://moodle.unimore.it/">University of Modena and Reggio Emilia</a> (Italy)</h3>
 
 <div class="card mt-3">
   <div class="p-3">
