@@ -69,7 +69,7 @@ nav_order: 4
 </div>
 
 
-<h3 class="mt-4" style="color:var(--global-theme-color)"> <i class="fa-solid fa-building-columns" style="color:var(--global-theme-color)">‌</i>  University of the Basque Country </h3><h3>(Spain) </h3>
+<h3 class="mt-4" style="color:var(--global-theme-color)"> <i class="fa-solid fa-building-columns" style="color:var(--global-theme-color)">‌</i>  University of the Basque Country <span style="color:var(--global-text-color)">(Spain)</span> </h3>
 
 <div class="card mt-3">
   <div class="p-3">
