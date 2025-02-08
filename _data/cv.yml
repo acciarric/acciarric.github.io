@@ -183,6 +183,23 @@
       items:
         -  2022 - present  
 
+- title: Academic and Editorial Services
+  type: nested_list
+  contents:
+    - title: Editorial Board Member for the SBM journal <a href="https://mc.sbm.org.br/a-revista/">Matemática Contemporânea</a> 
+      items:
+        -  2021- present
+    - title: Peer review activities for many international journal
+      items:
+        - 2012 - present
+        - Bulletin of the Brazilian Mathematical Society, Journal of Algebra, Journal of Algebra and its Applications, Journal of Pure and Applied Algebra, etc
+    - title: Member of the Scientific Board for the PhD Program in Mathematics (University of Parma, University of Ferrara and University of Modena and Reggio Emilia)
+      items:
+        -  2022 - present  
+    - title: Member of 10 PhD defense committees
+      items:
+        - 2013 - present
+
 - title: Other Interests
   type: list
   contents:
