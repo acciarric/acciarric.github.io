@@ -115,8 +115,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester<br>
-      — <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours,1st semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 60 hours, 1st semester<br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 A, 60 hours,1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -129,9 +129,9 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 2nd semester<br>
-      — <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours, 2nd semester <br>
-      — <b>Algebra 1</b>: undergraduate course 113107 A, 60 hours, 1st semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 60 hours, 2nd semester<br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 A, 60 hours, 2nd semester <br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 A, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -144,9 +144,9 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 60 hours, 1st semester<br>
-     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 60 hours, 1st semester<br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -160,9 +160,9 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
      — <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester <br>
-     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
-     — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester<br>
-     — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
+     — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester <br>
+     — <b>Teoria de Grupos Finitos 2</b>: Master course 313386, 60 hours, 1st semester<br>
+     — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -176,9 +176,9 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
       — <b>Lie Methods in Group Theory</b>: PhD course in English, 60 hours, 2nd semester <br>
-      — <b>Algebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester <br>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester<br>
-      — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester <br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B and C, 120 hours, 2nd semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 75 hours, 1st semester<br>
+      — <b>Teoria de Grupos Finitos 2</b>: Master course 313386, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -191,9 +191,9 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
-      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
-      — <b>Group Theory 2</b>: Master course 313386, 60 hours, 1st semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
+      — <b>Teoria de Grupos Finitos 2</b>: Master course 313386, 60 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -206,10 +206,10 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
-      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester<br>
-      — <b>Introduction to algebra</b>: Master course, 60 hours, 1st semester<br>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 1st semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 2nd semester<br>
+      — <b>Introdução à Álgebra</b>: Master course, 60 hours, 1st semester<br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 75 hours, 1st semester <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -222,10 +222,10 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Mathematics</h6>
-      — <b>Introduction to Linear Algebra</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
-      — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 2nd semester<br>
-      — <b>Algebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
-      — <b>Calculus III</b>: undergraduate course 113051, 75 hours, 1st semester <br>
+      — <b>Introdução à Álgebra Linear</b>: undergraduate course 113093, 75 hours, 2nd semester <br>
+      — <b>Cálculo III</b>: undergraduate course 113051, 75 hours, 2nd semester<br>
+      — <b>Álgebra 1</b>: undergraduate course 113107 B, 60 hours, 1st semester<br>
+      — <b>Cálculo III</b>: undergraduate course 113051, 75 hours, 1st semester <br>
   </div>
 </div>
 
