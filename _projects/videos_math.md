@@ -12,7 +12,7 @@ This is a collection of videos on `math topics' and not only... <i class="fa-sol
 
 <div style="max-width:1024px">
   <div style="position:relative;height:0;padding-bottom:56.25%">
-      <iframe src="https://youtu.be/415VX3QX4cU" width="1024px" height="576px" title="Symmetry, reality's riddle" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen>
+      <iframe src="https://www.youtube.com/embed/415VX3QX4cU?si=efSRPKXf5JU_1UUT" width="1024px" height="576px" title="Symmetry, reality's riddle" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen>
       </iframe>
   </div>
 </div>
