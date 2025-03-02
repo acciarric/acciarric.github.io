@@ -35,8 +35,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b>Strutture algebriche</b>: graduate course MN1-512, 28 hours <br>
-      — <b>Algebra A</b>: undergraduate course MN1-1030, 72 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/12906/2018/10000/10186?coorte=2023&schemaid=21011">Strutture algebriche</a></b>: graduate course MN1-512, 28 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/16479/2015/9999/10176?coorte=2023&schemaid=21071">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -49,8 +49,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b>Algebra superiore</b>: graduate course MN1-306, 42 hours <br>
-      — <b>Matematica</b>: undergraduate course SB-25/B-47, 56 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/12338/2018/10000/10186?coorte=2022&schemaid=20184">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/18480/2018/9999/10170?coorte=2022&schemaid=20626">Matematica</a> - <a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/20708/2018/9999/10169?coorte=2022&schemaid=20621">Matematica ed esercitazioni</a> </b>: undergraduate course SB-25/B-47, 56 hours <br> 
   </div>
 </div>
 <div class="card mt-3">
@@ -63,8 +63,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b>Strutture algebriche</b>: graduate course MN1-512, 36 hours <br>
-      — <b>Geometria e Algebra Lineare</b>: undergraduate course MECC-2, 20 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2021/12906/2018/10000/10186?coorte=2021&schemaid=19468">Strutture algebriche</a></b>: graduate course MN1-512, 36 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2021/18691/2009/10000/10294?coorte=2021&schemaid=20112">Geometria e Algebra Lineare</a></b>: undergraduate course MECC-2, 20 hours <br>
   </div>
 </div>
 
