@@ -55,7 +55,7 @@ ninja.data = [{
               window.location.href = "/projects/my_videos/";
             },},{id: "projects-pictures",
           title: 'pictures',
-          description: "congresees, events, etc",
+          description: "congresses, events, etc",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pictures/";
             },},{id: "projects-videos-on-maths",
