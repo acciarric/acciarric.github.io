@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pictures
-description: congresees, events, etc
+description: congresses, events, etc
 img: assets/img/foto/workshop_unb_20.jpg
 importance: 2
 category: work
