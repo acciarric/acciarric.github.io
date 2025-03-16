@@ -106,11 +106,11 @@ ninja.data = [{
           window.open("https://www.scopus.com/authid/detail.uri?authorId=40461096800&partnerID=MN8TOARS", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-arxiv_username',
+        title: 'Arxiv_username',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/search/?searchtype=author&query=Acciarri%2C+C", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
