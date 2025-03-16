@@ -128,15 +128,13 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/PGTC_manchester_09.jpg" title="PGTC 09" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/PGTC_manchester_09.jpg" title="PGTC 09" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/cirm_clay_indam_levico_07.jpg" title="Levico 07" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/cirm_clay_indam_levico_07.jpg" title="Levico 07" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     On the left, the PostGraduate Group Theory conference Manchester 2009. Right, CIRM-Clay-INdAM conference in Levico 2007.
 </div>
-
-
 
