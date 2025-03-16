@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications in reversed chronological order, preprints shown on the top of the list.",
+          description: "publications in reversed chronological order, preprints shown on the top of the list. See also my arXiv record",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
