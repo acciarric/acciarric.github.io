@@ -2,7 +2,7 @@
 layout: page
 title: miscellanea
 permalink: /projects/
-description: A growing collection of miscellaneous items, as pictures, some useful links and videos <b><i class="fa-solid fa-tools">‌</i></b>
+description: A growing collection of miscellaneous items, as pictures, some useful links and videos.
 nav: true
 nav_order: 5
 display_categories: [work, fun]

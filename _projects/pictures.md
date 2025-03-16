@@ -12,10 +12,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/cla_santiago_24.jpeg" title="cla 24" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/cla_santiago_24.jpeg" title="cla 24" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/tgt_padova_24.jpg" title="tgt 24" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/tgt_padova_24.jpg" title="tgt 24" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -23,10 +23,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/frfg_bilbao_23_2.jpg" title="frfg 23" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/frfg_bilbao_23_2.jpg" title="frfg 23" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/frfg_bilbao_23.jpg" title="frfg 23 v" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/frfg_bilbao_23.jpg" title="frfg 23 v" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -34,10 +34,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/workshop_unb_20.jpg" title="summer unb 20" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/workshop_unb_20.jpg" title="summer unb 20" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/grStAndrews_17.jpg" title="grStandrews 17" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/grStAndrews_17.jpg" title="grStandrews 17" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -45,10 +45,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/ischiaGT_16.jpg" title="IGT 16" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/ischiaGT_16.jpg" title="IGT 16" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/ischiaGT_14.jpg" title="IGT 14" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/ischiaGT_14.jpg" title="IGT 14" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -56,10 +56,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/rio_13.jpg" title="rio 13" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/rio_13.jpg" title="rio 13" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/IschiaGT_12.jpg" title="IGT 12" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/IschiaGT_12.jpg" title="IGT 12" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -67,10 +67,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/salvador_12.jpg" title="escola 12" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/salvador_12.jpg" title="escola 12" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/salvador_12_2.jpg" title="escola 12 v" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/salvador_12_2.jpg" title="escola 12 v" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -78,13 +78,13 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12_2.jpg" title="jerusalem 12" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12_2.jpg" title="jerusalem 12" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12_3.jpg" title="jerusalem 12_2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12_3.jpg" title="jerusalem 12_2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12.jpg" title="jerusalem 12_3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/jerusalem_12.jpg" title="jerusalem 12_3" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -92,13 +92,13 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_2.jpg" title="MFO_1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_2.jpg" title="MFO_1" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11.jpg" title="MFO_2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11.jpg" title="MFO_2" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_4.jpg" title="MFO_3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/foto/MFO_oberwolfach_11_4.jpg" title="MFO_3" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -106,10 +106,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/IschiaGT_10.jpg" title="IGT 10" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/IschiaGT_10.jpg" title="IGT 10" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/poznan_10.jpg" title="poznan 10" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/poznan_10.jpg" title="poznan 10" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -117,10 +117,10 @@ Some pictures of places that I visited and events that I attended.  Many friends
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/grStAndrews_09.jpg" title="GStA 09" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/grStAndrews_09.jpg" title="GStA 09" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/foto/stonehenge_09.jpg" title="stonehenge 09" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/foto/stonehenge_09.jpg" title="stonehenge 09" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
