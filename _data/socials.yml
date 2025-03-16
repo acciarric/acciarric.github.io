@@ -46,6 +46,6 @@ scopus_id: 40461096800&partnerID=MN8TOARS #https://www.scopus.com/authid/detail.
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
- logo: <i class="ai ai-arxiv ai-3x"></i> # can be png, svg, jpg
+ logo: img/arxiv.svg # can be png, svg, jpg
  title: arXiv
  url: https://arxiv.org/search/?searchtype=author&query=Acciarri%2C+C
