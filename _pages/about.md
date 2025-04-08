@@ -12,7 +12,7 @@ profile:
     <p>Office: MO-18-03-006</p>
     <p>Via Campi 213/b</p>
     <p>41125 Modena - Italy</p>
-    <p>Dipartimento di Scienze Fisiche, Informatiche, Matematiche -UniMoRe</p>
+    <p>Dipartimento di Scienze Fisiche, Informatiche, Matematiche - UniMoRe</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
