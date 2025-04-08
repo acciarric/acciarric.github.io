@@ -65,7 +65,7 @@
       value:  My research area in Mathematics is <b>Group Theory</b> and more specifically I’m interested in <ul>
        <li>profinite groups and residually finite groups,</li>
        <li>verbal subgroups and words in groups,</li> 
-       <li>coprime automorphisms of groups,</li>  
+       <li>(coprime) automorphisms of groups,</li>  
        <li>graphs and probabilistic properties of groups,</li>
        <li> graded Lie algebras.</li>  
        </ul>
@@ -170,19 +170,6 @@
         - <b>Leandro Araújo Castro</b>, MSc in Mathematics, University of Brasilia, <i>Generalizando um teorema de P. Hall sobe grupos finitos-por-nilpotentes</i>,with CNPq grant   
         - <b><a href="https://www.lucy.cam.ac.uk/fellows/dr-jose-paiva-miranda-de-siqueira">José Vitor Paiva Miranda de Siqueira</a></b>, "<i>Iniciação científica em álgebra</i>", University of Brasilia, undergraduate independent supervised study with UnB grant
     
-- title: Membership
-  type: nested_list
-  contents:
-    - title: <a href="https://www.altamatematica.it/gnsaga">INdAM</a> - Instituto Nazionale di Alta Matematica - GNSAGA
-      items:
-        -  2007- present
-    - title: <a href="https://www.europeanwomeninmaths.org/profile/cristina-acciarri/">European Women in Mathematics</a>
-      items:
-        - 2022 - present
-    - title: <a href="https://umi.dm.unibo.it">UMI</a>, Unione Matematica Italiana
-      items:
-        -  2022 - present  
-
 - title: Academic and Editorial Services
   type: nested_list
   contents:
@@ -197,9 +184,26 @@
       items:
         -  2022 - present 
         - Doctoral Program in Mathematics run jointly by University of Ferrara,University of Modena and Reggio Emilia and University of Parma
-    - title: Member of 10 PhD defense committees
+    - title: Member of 10 PhD defense committees, further details in my complete cv.
       items:
         - 2013 - present
+    - title: Member of the <a href="https://www.fim.unimore.it/it/assicurazione-qualita/commissione-paritetica-docenti-studenti">Faculty-Student Joint Committee</a>, Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia 
+      items:
+        -  2024 - present 
+
+- title: Membership
+  type: nested_list
+  contents:
+    - title: <a href="https://www.altamatematica.it/gnsaga">INdAM</a> - Instituto Nazionale di Alta Matematica - GNSAGA
+      items:
+        -  2007- present
+    - title: <a href="https://www.europeanwomeninmaths.org/profile/cristina-acciarri/">European Women in Mathematics</a>
+      items:
+        - 2022 - present
+    - title: <a href="https://umi.dm.unibo.it">UMI</a> - Unione Matematica Italiana
+      items:
+        -  2022 - present  
+
 
 - title: Other Interests
   type: list

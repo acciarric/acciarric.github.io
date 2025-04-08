@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fa-solid fa-briefcase" style="color:var(--global-theme-color)">‌</i> <a href='https://personale.unimore.it/rubrica/dettaglio/acciarric'>University of Modena and Reggio Emilia (my UniMoRe webpage)</a> 
+subtitle: <i class="fa-solid fa-briefcase" style="color:var(--global-theme-color)">‌</i> <a href='https://personale.unimore.it/rubrica/dettaglio/acciarric'>University of Modena and Reggio Emilia (link to my UniMoRe webpage)</a> 
 
 profile:
   align: right
@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: MO-18-03-006</p>
-    <p>Via Campi 213/b,</p>
+    <p>Via Campi 213/b, Math Building</p>
     <p>41125 Modena - Italy</p>
+    <p>Dipartimento di Scienze Fisiche, Informatiche, Matematiche</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,7 +28,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my HomePage!
 
-I am an Italian mathematician and currently I am an Associate Professor in Algebra (with ASN qualification as "[professore di prima fascia](https://asn21.cineca.it/pubblico/miur/esito-abilitato/01%252FA2/1/4) in 01/MATH-02 Algebra e Geometria") at the [Department of Physics, Informatics and Mathematics](https://www.fim.unimore.it/it) of the [University of Modena and Reggio Emilia](https://www.unimore.it/)- Italy.
+<p  style="color:var(--global-theme-color)">‌Short Bio.</p> I am an Italian mathematician and currently I am an Associate Professor in Algebra (with ASN qualification as "[professore di prima fascia](https://asn21.cineca.it/pubblico/miur/esito-abilitato/01%252FA2/1/4) in 01/MATH-02 Algebra e Geometria") at the [Department of Physics, Informatics and Mathematics](https://www.fim.unimore.it/it) of the [University of Modena and Reggio Emilia](https://www.unimore.it/)- Italy.
 
 I received my Bachelor and Master degrees in Mathematics at the [Universit&agrave; degli Studi di Roma "La Sapienza"](http://www.uniroma1.it) (Italy). Then I moved to the [Università degli Studi di L'Aquila](http://www.univaq.it/) for my PhD degree, and I spent two years at the [Universidad del País Vasco/Euskal Herriko Unibertsitatea](http://www.ehu.es/) (Spain) working in collaboration with my PhD supervisor [Gustavo Fernández-Alcober](https://ekoizpen-zientifikoa.ehu.eus/investigadores/128893/detalle). 
 
