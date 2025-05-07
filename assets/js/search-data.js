@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-an-invited-keynote-speaker-at-the-indam-workshop-old-and-new-trends-in-mathematical-collaboration-between-brazil-and-italy-that-will-be-held-in-rome-23rd-27th-june-2025-organized-by-indam-the-brazilian-embassy-in-rome-and-sbm-brazil",
           title: 'I will be an invited keynote speaker at the INdAM Workshop “Old and...',
           description: "",
-          section: "News",},{id: "news-exciting-news-a-new-pre-print-paper-by-robert-m-guralnick-evgeny-i-khukhro-pavel-shumyatsky-and-myself-is-out-on-local-global-generation-property-of-commutators-in-finite-pi-soluble-groups-check-it-out-the-manuscript-on-arxiv-or-the-abstract-on-the-publications-page",
+          section: "News",},{id: "news-exciting-news-a-new-pre-print-paper-by-robert-m-guralnick-evgeny-i-khukhro-pavel-shumyatsky-and-myself-def-is-out-on-local-global-generation-property-of-commutators-in-finite-pi-soluble-groups-check-it-out-the-manuscript-on-arxiv-or-the-abstract-on-the-publications-page",
           title: 'Exciting News! A new pre-print paper, by Robert M. Guralnick, Evgeny I. Khukhro,...',
           description: "",
           section: "News",},{id: "projects-useful-links",
