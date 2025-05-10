@@ -20,9 +20,9 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/12338/2018/10000/10186?coorte=2024&schemaid=21014">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/16479/2015/9999/10176?coorte=2024&schemaid=21073">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/28653/2018/10003/10186?coorte=2024&schemaid=21015">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/12338/2018/10000/10186?coorte=2024&schemaid=21924">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/16479/2015/9999/10176?coorte=2024&schemaid=21942">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/28655-1/2018/10003/10186?coorte=2024&schemaid=21925&adCodRadice=M263-067">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
   </div>
 </div>
 <div class="card mt-3">
