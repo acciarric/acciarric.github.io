@@ -36,7 +36,7 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
       — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/12906/2018/10000/10186?coorte=2023&schemaid=21011">Strutture algebriche</a></b>: graduate course MN1-512, 28 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/16479/2015/9999/10176?coorte=2023&schemaid=21071">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/16479/2015/9999/10176?coorte=2023&schemaid=21945">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br>
   </div>
 </div>
 <div class="card mt-3">
