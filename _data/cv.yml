@@ -202,10 +202,10 @@
       description: speaker and coorganizer of the round table at the University of Modena and Reggio Emilia, Italy
     - title: <a href="https://www.exatas.unb.br/index.php/pt/eventos-e-atividades-2/304-leonardo-e-a-matematica">Leonardo e a matemática</a>
       year: 2019
-      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia, University of Brasilia, Brazil
-    - title: <a href="https://www.exatas.unb.br/index.php/en-us/ie-informa-home/157-surprising-mathematics-2">Matemática sorprendente/Surprising Mathematics</a>, a conference in honor of 60th birthday of P. Shumyatsky
+      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia, University of Brasilia, Brazil. Special guest S. Chiossi.
+    - title: <a href="https://www.exatas.unb.br/index.php/en-us/ie-informa-home/157-surprising-mathematics-2">Matemática sorprendente/Surprising Mathematics</a>
       year: 2018
-      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia, special guest P. Oddifreddi.
+      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia. Special guest P. Oddifreddi.
 
 - title: Membership
   type: nested_list
