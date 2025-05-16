@@ -191,6 +191,22 @@
       items:
         -  2024 - present 
 
+- title: Outreach
+  type: time_table
+  contents:
+    - title:  <a href="https://www.dscg.unimore.it/sites/dip06/files/2024-05/Ildirittodicontare_locandina_cineforum.pdf">Il diritto di contare</a>
+      year: 2024
+      description: projection movie and debate organized at the University of Modena and Reggio Emilia, Italy
+    - title:  <a href="https://www.magazine.unimore.it/site/home/notizie/articolo820062974.html">Tavola Rotonda Paolo Ruffini, 1799</a>
+      year: 2022
+      description: speaker and coorganizer of the round table at the University of Modena and Reggio Emilia, Italy
+    - title: <a href="https://www.exatas.unb.br/index.php/pt/eventos-e-atividades-2/304-leonardo-e-a-matematica">Leonardo e a matemática</a>
+      year: 2019
+      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia, University of Brasilia, Brazil
+    - title: <a href="https://www.exatas.unb.br/index.php/en-us/ie-informa-home/157-surprising-mathematics-2">Matemática sorprendente/Surprising Mathematics</a>, a conference in honor of 60th birthday of P. Shumyatsky
+      year: 2018
+      description: a divulgative conference co-organized with and sponsored by the Italian Embassy in Brasilia, special guest P. Oddifreddi.
+
 - title: Membership
   type: nested_list
   contents:
