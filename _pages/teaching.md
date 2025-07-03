@@ -14,6 +14,21 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 25-26</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/12338/2018/10000/10186?coorte=2024&schemaid=21924">Strutture algebriche</a></b>: graduate course MN1-512, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/16479/2015/9999/10176?coorte=2024&schemaid=21942">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/28655-1/2018/10003/10186?coorte=2024&schemaid=21925&adCodRadice=M263-067">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">academic year 24-25</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">

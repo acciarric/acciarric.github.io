@@ -101,6 +101,9 @@
 - title: Selected Invited Talks
   type: time_table
   contents:
+    - title: Rank type conditions on commutators in finite groups, <a href="https://sites.google.com/view/indamwrome25/home?authuser=0">Old and New Trends in Mathematical Collaboration between Brazil and Italy</a>
+      year: 2025
+      description: an INdAM workshop coorganized by SBM, INdAM, MAECI, Brazial Embassy in Rome and several Italian universities, INdAM-Rome Italy
     - title: Rank type conditions on commutators in finite groups, <a href="https://events.math.unipd.it/tgt/">Topics in Group Theory</a>
       year: 2024
       description: a conference on the occasion of A. Lucchini's 60th(+) birthday,University of Padova, Italy
@@ -173,7 +176,7 @@
 - title: Academic and Editorial Services
   type: nested_list
   contents:
-    - title: Editorial Board Member for the <a href="https://sbm.org.br/">SBM</a> journal <a href="https://link.springer.com/journal/44425/editorial-board">Matemática Contemporânea</a> 
+    - title: Editorial Board Member for the <a href="https://link.springer.com/journal/44425?srsltid=AfmBOorJ6AjIYM0Uhbhr-Goal8KVD8LferTZaUtdjQrPMLxnn7ciAgcX">SBM</a> journal <a href="https://link.springer.com/journal/44425/editorial-board">Matemática Contemporânea</a> 
       items:
         -  2021- present
     - title: Peer review activities for many international journals
