@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fa-solid fa-briefcase" style="color:var(--global-theme-color)">‌</i> <a href='https://personale.unimore.it/rubrica/dettaglio/acciarric'>University of Modena and Reggio Emilia (link to my UniMoRe webpage)</a> 
+subtitle: <i class="fa-solid fa-briefcase" style="color:var(--global-theme-color)">‌</i> <a href='https://unimore.unifind.cineca.it/resource/person/232298'>University of Modena and Reggio Emilia (link to my UniMoRe webpage)</a> 
 
 profile:
   align: right
