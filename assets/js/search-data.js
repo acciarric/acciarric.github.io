@@ -88,7 +88,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://personale.unimore.it/rubrica/dettaglio/acciarric", "_blank");
+          window.open("https://unimore.unifind.cineca.it/resource/person/232298", "_blank");
         },
       },{
         id: 'social-researchgate',
