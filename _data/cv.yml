@@ -148,6 +148,9 @@
 - title: Advising 
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - <b>Daniele Ruini</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i>THE Inverse Galois Problem</i>
     - year: 2024
       items:
         - <b>Roberto Roversi</b>, BSc in Mathematics, University of Modena and Reggio Emilia, <i>Commuting Probability in Finite Groups</i>
@@ -201,6 +204,9 @@
 - title: Outreach
   type: time_table
   contents:
+    - title:  <a href="https://www.ritrattidimatematiche.unimore.it/">Ritratti di Matematiche dal Mondo</a>
+      year: 2025
+      description: a project of public engagement financially supported by the University of Modena and Reggio Emilia, Italy, with the patronage of ER.GO, UMI,Associazione Donne e Scienza, AIRDM, MaddMaths!, Federazione Italiana Mathesis, GRIMeD 
     - title:  <a href="https://www.dscg.unimore.it/sites/dip06/files/2024-05/Ildirittodicontare_locandina_cineforum.pdf">Il diritto di contare</a>
       year: 2024
       description: projection movie and debate organized at the University of Modena and Reggio Emilia, Italy
