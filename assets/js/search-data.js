@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "all posted news in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "news-i-am-coorganizing-jointly-with-m-vannacci-and-a-zozaya-the-finite-and-profinite-groups-session-at-rsme-s-7th-congress-of-young-researchers-that-will-be-held-in-bilbao-from-13th-to-17th-january-2025",
           title: 'I am coorganizing, jointly with M. Vannacci and A. Zozaya, the ‘Finite and...',
           description: "",
