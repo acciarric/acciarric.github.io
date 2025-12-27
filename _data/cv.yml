@@ -194,12 +194,16 @@
       items:
         -  2022 - present 
         - Doctoral Program in Mathematics run jointly by University of Ferrara, University of Modena and Reggio Emilia and University of Parma
-    - title: Member of 10 PhD defense committees
-      items:
-        - 2013 - present,  further details in my complete cv
     - title: Member of the <a href="https://www.fim.unimore.it/it/assicurazione-qualita/commissione-paritetica-docenti-studenti">Faculty-Student Joint Committee</a>, Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia 
       items:
         -  2024 - present 
+    - title: Member of the <a href="https://fim.unimore.it/it/ricerca/commissione-ricerca">Research Committee</a>, Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia 
+      items:
+        -  2025 - present  
+    - title: Member of 10 PhD defense committees
+      items:
+        - 2013 - present,  further details in my complete cv
+   
 
 - title: Outreach
   type: time_table
