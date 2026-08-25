@@ -21,7 +21,7 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
       — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2026?corso=16-363&annoOrdinamento=2026&pds=16-363-3&coorte=2026&ad=MN1-306&piano=M363-3&lingua=ita&sede=171&modDid=C&linguaCC=it">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
-      — <b><a href="hhttps://unimore.coursecatalogue.cineca.it/af/2026?corso=16-314&annoOrdinamento=2026&pds=PDS0-2026&coorte=2026&ad=MN1-1030&piano=16-314-1&lingua=ita&sede=171&modDid=C&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2026?corso=16-314&annoOrdinamento=2026&pds=PDS0-2026&coorte=2026&ad=MN1-1030&piano=16-314-1&lingua=ita&sede=171&modDid=C&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
       — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2026?corso=16-363&annoOrdinamento=2026&pds=16-363-1&coorte=2026&ad=M263-065&piano=M363-1&linguaCC=it">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
   </div>
 </div>
@@ -50,9 +50,9 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/12338/2018/10000/10186?coorte=2024&schemaid=21924">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/16479/2015/9999/10176?coorte=2024&schemaid=21942">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2024/28655-1/2018/10003/10186?coorte=2024&schemaid=21925&adCodRadice=M263-067">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2024?corso=16-263&annoOrdinamento=2018&pds=16-263-3&coorte=2024&ad=MN1-306&piano=LMMAT-DS&lingua=ita&sede=171&linguaCC=it">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2024?corso=16-214&annoOrdinamento=2015&pds=PDS0-2015&coorte=2024&ad=MN1-1030&piano=MAT2024P&lingua=ita&sede=171&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2024?corso=16-263&annoOrdinamento=2018&pds=16-263-3&coorte=2024&ad=M263-065&piano=LMMAT-DS&lingua=ita&sede=171&linguaCC=it">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
   </div>
 </div>
 <div class="card mt-3">
@@ -65,8 +65,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/12906/2018/10000/10186?coorte=2023&schemaid=21011">Strutture algebriche</a></b>: graduate course MN1-512, 28 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2023/16479/2015/9999/10176?coorte=2023&schemaid=21945">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2023?corso=16-263&annoOrdinamento=2018&pds=16-263-3&coorte=2023&ad=MN1-512&piano=LMMAT-DS&lingua=ita&sede=171&linguaCC=it">Strutture algebriche</a></b>: graduate course MN1-512, 28 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2023?corso=16-214&annoOrdinamento=2015&pds=PDS0-2015&coorte=2023&ad=MN1-1030&piano=MAT2023&lingua=ita&sede=171&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br>
   </div>
 </div>
 <div class="card mt-3">
@@ -79,8 +79,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/12338/2018/10000/10186?coorte=2022&schemaid=20184">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/18480/2018/9999/10170?coorte=2022&schemaid=20626">Matematica</a> - <a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/20708/2018/9999/10169?coorte=2022&schemaid=20621">Matematica ed esercitazioni</a> </b>: undergraduate course SB-25/B-47, 56 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2022?corso=16-263&annoOrdinamento=2018&pds=16-263-3&coorte=2022&ad=MN1-306&piano=LMMAT-DS&lingua=ita&sede=171&linguaCC=it">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2022/18480/2018/9999/10170?coorte=2022&schemaid=20626">Matematica</a> - <a href="https://unimore.coursecatalogue.cineca.it/af/2022?corso=17-201&annoOrdinamento=2018&pds=PDS0-2018&coorte=2022&ad=SB-25&piano=11460&lingua=ita&sede=171&linguaCC=it">Matematica ed esercitazioni</a> </b>: undergraduate course SB-25/B-47, 56 hours <br> 
   </div>
 </div>
 <div class="card mt-3">
@@ -93,8 +93,8 @@ nav_order: 4
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2021/12906/2018/10000/10186?coorte=2021&schemaid=19468">Strutture algebriche</a></b>: graduate course MN1-512, 36 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2021/18691/2009/10000/10294?coorte=2021&schemaid=20112">Geometria e Algebra Lineare</a></b>: undergraduate course MECC-2, 20 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2021?corso=16-263&annoOrdinamento=2018&pds=16-263-3&coorte=2021&ad=MN1-512&piano=LMMAT-DS&lingua=ita&sede=171&linguaCC=it">Strutture algebriche</a></b>: graduate course MN1-512, 36 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2021?corso=20-210&annoOrdinamento=2009&pds=20-210-1&coorte=2021&ad=MECC-2&piano=APPR%20AMB&lingua=ita&sede=171&linguaCC=it">Geometria e Algebra Lineare</a></b>: undergraduate course MECC-2, 20 hours <br>
   </div>
 </div>
 
