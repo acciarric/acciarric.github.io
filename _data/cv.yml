@@ -101,6 +101,9 @@
 - title: Selected Invited Talks
   type: time_table
   contents:
+    - title: On Lie ring methods in group theory- invited mini-course, <a href="https://algebra2026.icmc.usp.br">Brazilian Algebra Meeting 2026</a>
+      year: 2026
+      description: the 28th edition of the largest and most traditional conference dedicated to Algebra and its applications in Brazil, jointly organized by ICMC-USP and UFSCar, ICMC-USP, Brazil
     - title: Rank type conditions on commutators in finite groups, <a href="https://sites.google.com/view/indamwrome25/home?authuser=0">Old and New Trends in Mathematical Collaboration between Brazil and Italy</a>
       year: 2025
       description: an INdAM workshop coorganized by SBM, INdAM, MAECI, Brazilian Embassy in Rome and several Italian universities, INdAM-Rome, Italy
@@ -148,6 +151,10 @@
 - title: Advising 
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - <b>Alessia Gualano</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i>On Frobenius Groups</i>
+        - <b>Michela Garagnani</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i> Differenze di genere e didattica laboratoriale in matematica- dalla progettazione della mostra ``Women of Mathematics from Around the World'' alla sperimentazione di un approccio laboratoriale per favorire l’equità nell'apprendimento della matematica</i>, cosupervised with Chiara Giberti
     - year: 2025
       items:
         - <b>Daniele Ruini</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i>The Inverse Galois Problem</i>
@@ -201,7 +208,7 @@
     - title: Member of the <a href="https://fim.unimore.it/it/ricerca/commissione-ricerca">Research Committee</a>, Department of Physics, Informatics and Mathematics, University of Modena and Reggio Emilia 
       items:
         -  2025 - present  
-    - title: Member of 11 PhD defense committees
+    - title: Member of 12 PhD defense committees
       items:
         - 2013 - present,  further details in my complete cv
    
