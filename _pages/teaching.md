@@ -14,15 +14,30 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="font-weight-bold">academic year 26-27</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2026?corso=16-363&annoOrdinamento=2026&pds=16-363-3&coorte=2026&ad=MN1-306&piano=M363-3&lingua=ita&sede=171&modDid=C&linguaCC=it">Algebra superiore</a></b>: graduate course MN1-306, 42 hours <br>
+      — <b><a href="hhttps://unimore.coursecatalogue.cineca.it/af/2026?corso=16-314&annoOrdinamento=2026&pds=PDS0-2026&coorte=2026&ad=MN1-1030&piano=16-314-1&lingua=ita&sede=171&modDid=C&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2026?corso=16-363&annoOrdinamento=2026&pds=16-363-1&coorte=2026&ad=M263-065&piano=M363-1&linguaCC=it">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
+  </div>
+</div>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">academic year 25-26</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Department of Physics, Informatics and Mathematics</h6>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2025/12906/2025/10002/10981?coorte=2025&schemaid=21921">Strutture algebriche</a></b>: graduate course MN1-512, 42 hours <br>
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2025/16479/2025/9999/10973?coorte=2025&schemaid=21940">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
-      — <b><a href="https://unimore.coursecatalogue.cineca.it/insegnamenti/2025/28653/2025/10000/10981?coorte=2025&schemaid=21920">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2025?corso=16-363&annoOrdinamento=2025&pds=16-363-3&coorte=2025&ad=MN1-512&lingua=ita&sede=171&linguaCC=it">Strutture algebriche</a></b>: graduate course MN1-512, 42 hours <br>
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2025?corso=16-314&annoOrdinamento=2025&pds=PDS0-2025&coorte=2025&ad=MN1-1030&piano=16-314-1&lingua=ita&sede=171&linguaCC=it">Algebra A</a></b>: undergraduate course MN1-1030, 72 hours <br> 
+      — <b><a href="https://unimore.coursecatalogue.cineca.it/af/2025?corso=16-363&annoOrdinamento=2025&pds=16-363-1&coorte=2025&ad=M263-065&piano=M363-1&lingua=ita&sede=171&linguaCC=it">Fondamenti di algebra e geometria</a></b>: graduate course M263-065, 21 hours 
   </div>
 </div>
 <div class="card mt-3">
