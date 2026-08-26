@@ -24,4 +24,8 @@ See also my <a href="https://arxiv.org/search/?searchtype=author&query=Acciarri%
 
 {% bibliography -f papers%}
 
+<h1>PhD Thesis</h1>
+
+{% bibliography -f phd %}
+
 </div>
