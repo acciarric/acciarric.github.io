@@ -16,6 +16,12 @@ See also my <a href="https://arxiv.org/search/?searchtype=author&query=Acciarri%
 
 <div class="publications">
 
-{% bibliography %}
+<h1>Preprints</h1>
+
+{% bibliography -f preprints %}
+
+<h1>Peer-Reviewed Journal Articles</h1>
+
+{% bibliography -f papers%}
 
 </div>
