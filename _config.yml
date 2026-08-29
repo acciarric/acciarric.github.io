@@ -278,7 +278,7 @@ scholar:
   last_name: [Acciarri]
   first_name: [Cristina, C.]
 
-  style: american-mathematical-society-label
+  style: apa
   locale: en
 
   source: /_bibliography/
