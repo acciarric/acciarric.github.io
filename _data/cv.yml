@@ -101,6 +101,9 @@
 - title: Selected Invited Talks
   type: time_table
   contents:
+    - title: Local-global generation property of commutators in finite groups, <a href="https://www.advgrouptheory.com/wrbp2026/index.html">AGTA Workshop - Reinhold Baer Prize 2026</a>
+      year: 2026
+      description: the AGTA workshop dedicated to the Reinhold Baer Prize 2026. The aim of the prize is to support the scientific activity of young researchers in group theory, Napoli,Italy
     - title: On Lie ring methods in group theory- invited mini-course, <a href="https://algebra2026.icmc.usp.br">Brazilian Algebra Meeting 2026</a>
       year: 2026
       description: the 28th edition of the largest and most traditional conference dedicated to Algebra and its applications in Brazil, jointly organized by ICMC-USP and UFSCar, ICMC-USP, Brazil
@@ -153,6 +156,7 @@
   contents:
     - year: 2026
       items:
+        - <b>Francesco Ripesi</b>, BSc in Mathematics, University of Modena and Reggio Emilia, <i>Group-based cryptography, analisi comparativa di piattaforme algebriche per la costruzione di protocolli a chiave pubblica</i>
         - <b>Alessia Gualano</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i>On Frobenius Groups</i>
         - <b>Michela Garagnani</b>, MSc in Mathematics, University of Modena and Reggio Emilia, <i> Differenze di genere e didattica laboratoriale in matematica- dalla progettazione della mostra ``Women of Mathematics from Around the World'' alla sperimentazione di un approccio laboratoriale per favorire l’equità nell'apprendimento della matematica</i>, cosupervised with Chiara Giberti
     - year: 2025
@@ -193,7 +197,7 @@
     - title: Peer review activities for many international journals
       items:
         - 2012 - present
-        - Bulletin of the Brazilian Mathematical Society, Journal of Algebra, Journal of Algebra and its Applications, Journal of Pure and Applied Algebra, Archiv der Mathematik etc
+        - Groups, Geometry, and Dynamics, Journal of Algebra, Bulletin of the Brazilian Mathematical Society, Journal of Algebra and its Applications, Journal of Pure and Applied Algebra, Archiv der Mathematik etc
     - title: Vice-coordinator for the <a href="https://www.mathphd.unimore.it/">PhD Program in Mathematics</a> 
       items:
         -  2025 - present 
